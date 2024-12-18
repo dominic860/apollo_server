@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- How to modify this file   1) Ensure that you specify the current time in LastUpdatedOn      
+							   2) Ensure that schema of this XML is not changed...         
+									a) CaptivateNews should have item as children .... no other children are possible	   
+									b) item should have following children only... in the same order              
+									i) title            ii) category 	            iii) Description            v) date             
+									vi) author            vii) link   		   3) Ensure that <title> of the every news update is unique      
+									Title of each news is used as primary key, to detect the number of new updates added , which we show in the app bar of user.       --><!-- LastUpdatedOn = YYYYMMDDHRMN-->
+<CaptivateNews LastUpdatedOn="201105190000">
+	
+<item>	  <title>Are you offline?</title>	  <category>What's new?</category>	  <description>You can access updates from the Adobe eLearning team - upcoming eSeminars, blog posts, product offers, roadshows and a lot more. Go ahead, connect to the internet to stay in touch with us!</description>	  <time>00:00</time>	  <date>05-10-2012</date>	  <author>Akshay Bharadwaj</author>	  <link>http://www.adobe.com/support/captivate/gettingstarted.html</link></item>
+
+<item>	  <title>View exclusive shows for information and training</title>	  <category>What's new?</category>	  <description>Get training, trouble-shooting tips, and information on the latest products and services on Adobe's online TV network</description>	  <time>00:00</time>	  <date>5-19-2011</date>	  <author>Akshay Bharadwaj</author>	  <link>http://tv.adobe.com/channel/e-learning/</link></item>
+
+<item><title>How do I get started in Captivate 6?</title>
+	  <category>What's new?</category>
+	  <description>Add software demonstrations, interactive simulations, branching scenarios, and quizzes to your courseware without programming using Adobe Captivate. Go beyond screen capture and engage elearners using interactive and collaborative features.
+Easily integrate your content with eLearning applications and leading SCORM- and AICC-compliant Learning Management Systems to deliver content virtually anywhere.</description>
+	  <time>00:00</time>
+	  <date>5-10-2012</date>
+	  <author>Akshay Bharadwaj</author>
+	  <link>http://www.adobe.com/support/captivate/gettingstarted.html</link>
+
+<item>
+<title>Adobe on Facebook</title>
+<category>What's new?</category>
+<description>
+Join our community of more than 35K eLearning professionals on Facebook to get your questions answered and engage with the latest with Adobe and eLearning.
+</description>
+<time>00:00</time>
+<date>05-10-2012</date>
+<author>Akshay Bharadwaj</author>
+<link>http://www.facebook.com/adobecaptivate</link>
+</item>
+
+<item>
+	  <title>Consider getting Adobe Captivate 6 as part of Adobe eLearning Suite 6 software</title>
+	  <category>What's new?</category>
+	  <description>Adobe eLearning Suite 2.5 software combines Adobe Captivate 6, Adobe Flash Professional CS6, Dreamweaver CS6, Photoshop CS6 Extended, Acrobat X Pro, Adobe Presenter 8, and Adobe Audition CS6, as well as additional tools and services</description>
+	  <time>00:00</time>
+	  <date>05-10-2011</date>
+	  <author>Akshay Bharadwaj</author>
+	  <link>http://www.adobe.com/elearningsuite</link>
+</item>
+
+
+</CaptivateNews>
