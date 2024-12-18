@@ -1,0 +1,3112 @@
+<!-- Parsing swf file:/c:/Documents and Settings/gokul/My Documents/My Adobe Captivate Projects/HomeRoute/HomeRoute.swf -->
+<!-- ?xml version="1.0" encoding="UTF-8"? -->
+<swf xmlns='http://macromedia/2003/swfx' version='9' framerate='30' size='12820x9620' compressed='true' >
+  <!-- framecount=121 length=1730056 -->
+  <!-- offset=21 size=6 -->
+  <FileAttributes hasMetadata='false' actionScript3='true' suppressCrossDomainCaching='false' swfRelativeUrls='false' useNetwork='false'/>
+  <!-- offset=27 size=5 -->
+  <SetBackgroundColor color='#FFFFFF'/>
+  <!-- offset=32 size=15 -->
+  <!-- unknown tag=999 length=13 -->
+  <!-- offset=47 size=4 -->
+  <!-- unknown tag=998 length=2 -->
+  <!-- offset=51 size=103 -->
+  <!-- unknown tag=997 length=97 -->
+  <!-- offset=154 size=92 -->
+  <!-- unknown tag=996 length=86 -->
+  <!-- offset=246 size=882306 -->
+  <DoABC2 name=''>
+  </DoABC2>
+  <!-- offset=882552 size=48 -->
+  <SymbolClass>
+    <Symbol idref='0' className='captivate.Veela_AS3.CaptivateMainTimeline' />
+  </SymbolClass>
+  <!-- offset=882600 size=367 -->
+  <DefineShape3 id='4095' bounds='(-679,-306),(675,262)'>
+    <fillstyle type='16' gradient='0 #64A668FF 255 #81CA8700' matrix='s0.0,0.0 r0.0049438477,-0.0413208 t-13,4' />
+    <fillstyle type='16' gradient='0 #64BD6AFF 255 #81CA8700' matrix='s0.0,0.0 r0.0060424805,-0.04071045 t-9,8' />
+    <fillstyle type='16' gradient='0 #81CA87FF 255 #81CA8700' matrix='s0.0,0.0 r0.0048217773,-0.040100098 t-14,15' />
+    <styleChange dx='-614' dy='-18' fillStyle1='1' />
+    <line dx='1223' dy='0' />
+    <curve cdx='65' cdy='0' dx='1' dy='65' />
+    <line dx='0' dy='150' />
+    <curve cdx='-1' cdy='65' dx='-65' dy='0' />
+    <line dx='-1223' dy='0' />
+    <curve cdx='-66' cdy='0' dx='1' dy='-65' />
+    <line dx='0' dy='-150' />
+    <curve cdx='-1' cdy='-32' dx='18' dy='-16' />
+    <curve cdx='15' cdy='-17' dx='33' dy='0' />
+    <styleChange dx='-669' dy='197' fillStyle0='1' fillStyle1='2' />
+    <line dx='0' dy='-150' />
+    <curve cdx='-1' cdy='-27' dx='15' dy='-14' />
+    <curve cdx='13' cdy='-14' dx='28' dy='0' />
+    <line dx='1223' dy='0' />
+    <curve cdx='55' cdy='0' dx='1' dy='55' />
+    <line dx='0' dy='150' />
+    <curve cdx='-1' cdy='55' dx='-55' dy='0' />
+    <line dx='-1223' dy='0' />
+    <curve cdx='-56' cdy='0' dx='1' dy='-55' />
+    <styleChange dx='-614' dy='238' fillStyle0='3' />
+    <line dx='1223' dy='0' />
+    <curve cdx='45' cdy='0' dx='1' dy='-45' />
+    <line dx='0' dy='-144' />
+    <curve cdx='-1' cdy='-45' dx='-45' dy='0' />
+    <line dx='-1223' dy='0' />
+    <curve cdx='-46' cdy='0' dx='1' dy='45' />
+    <line dx='0' dy='144' />
+    <curve cdx='-1' cdy='45' dx='46' dy='0' />
+    <styleChange dx='0' dy='0' fillStyle0='0' fillStyle1='0' lineStyle='0' >
+      <fillstyle type='0' color='#64BD6AFF' />
+      <fillstyle type='0' color='#64BD6ABF' />
+    </styleChange>
+    <styleChange dx='665' dy='-91' fillStyle0='2' fillStyle1='1' />
+    <curve cdx='-1' cdy='55' dx='-55' dy='0' />
+    <line dx='-1223' dy='0' />
+    <curve cdx='-56' cdy='0' dx='1' dy='-55' />
+    <line dx='0' dy='-150' />
+    <curve cdx='-1' cdy='-27' dx='15' dy='-14' />
+    <curve cdx='13' cdy='-14' dx='28' dy='0' />
+    <line dx='1223' dy='0' />
+    <curve cdx='55' cdy='0' dx='1' dy='55' />
+    <line dx='0' dy='150' />
+    <styleChange dx='675' dy='-91' fillStyle0='0' fillStyle1='2' />
+    <curve cdx='-1' cdy='65' dx='-65' dy='0' />
+    <line dx='-1223' dy='0' />
+    <curve cdx='-66' cdy='0' dx='1' dy='-65' />
+    <line dx='0' dy='-150' />
+    <curve cdx='-1' cdy='-32' dx='18' dy='-16' />
+    <curve cdx='15' cdy='-17' dx='33' dy='0' />
+    <line dx='1223' dy='0' />
+    <curve cdx='65' cdy='0' dx='1' dy='65' />
+    <line dx='0' dy='150' />
+    <styleChange dx='0' dy='0' fillStyle0='0' fillStyle1='0' lineStyle='0' >
+      <fillstyle type='0' color='#81CA87FF' />
+    </styleChange>
+    <styleChange dx='655' dy='-241' fillStyle0='1' />
+    <curve cdx='-1' cdy='-45' dx='-45' dy='0' />
+    <line dx='-1223' dy='0' />
+    <curve cdx='-46' cdy='0' dx='1' dy='45' />
+    <line dx='0' dy='144' />
+    <curve cdx='-1' cdy='45' dx='46' dy='0' />
+    <line dx='1223' dy='0' />
+    <curve cdx='45' cdy='0' dx='1' dy='-45' />
+    <line dx='0' dy='-144' />
+    <styleChange dx='0' dy='0' fillStyle0='0' fillStyle1='0' lineStyle='0' >
+      <fillstyle type='0' color='#FFFFFF5A' />
+    </styleChange>
+    <styleChange dx='655' dy='-241' fillStyle0='1' />
+    <curve cdx='-1' cdy='-45' dx='-45' dy='0' />
+    <line dx='-1223' dy='0' />
+    <curve cdx='-46' cdy='0' dx='1' dy='45' />
+    <line dx='0' dy='69' />
+    <line dx='1314' dy='0' />
+    <line dx='0' dy='-69' />
+    <styleChange dx='0' dy='0' fillStyle0='0' fillStyle1='0' lineStyle='0' >
+      <fillstyle type='0' color='#FFFFFFFF' />
+      <linestyle color='#7CC77CFF' width='1' />
+    </styleChange>
+    <styleChange dx='553' dy='-126' fillStyle1='1' lineStyle='1' />
+    <line dx='-1116' dy='0' />
+    <line dx='0' dy='-87' />
+    <line dx='1116' dy='0' />
+    <line dx='0' dy='87' />
+  </DefineShape3>
+  <!-- offset=882967 size=26 -->
+  <DefineSprite id='4097'>
+    <!-- sprite framecount=1 -->
+    <PlaceObject2 idref='4095' depth='5' matrix='t0,0'/>
+    <ShowFrame/>
+  </DefineSprite>
+  <!-- offset=882993 size=824 -->
+  <DefineShape3 id='4098' bounds='(-940,-141),(1076,74)'>
+    <fillstyle type='0' color='#00000099' />
+    <styleChange dx='71' dy='-53' fillStyle0='1' />
+    <line dx='1' dy='0' />
+    <line dx='3' dy='15' />
+    <line dx='3' dy='15' />
+    <line dx='10' dy='31' />
+    <line dx='-33' dy='0' />
+    <line dx='9' dy='-31' />
+    <line dx='3' dy='-15' />
+    <line dx='4' dy='-15' />
+    <styleChange dx='51' dy='-78' />
+    <line dx='-46' dy='150' />
+    <line dx='35' dy='0' />
+    <line dx='11' dy='-39' />
+    <line dx='42' dy='0' />
+    <line dx='12' dy='39' />
+    <line dx='35' dy='0' />
+    <line dx='-45' dy='-150' />
+    <line dx='-44' dy='0' />
+    <styleChange dx='193' dy='-53' />
+    <line dx='5' dy='0' />
+    <line dx='9' dy='-1' />
+    <curve cdx='12' cdy='0' dx='8' dy='7' />
+    <line dx='7' dy='16' />
+    <line dx='-8' dy='17' />
+    <curve cdx='-8' cdy='7' dx='-13' dy='0' />
+    <line dx='-7' dy='0' />
+    <line dx='-5' dy='-1' />
+    <line dx='0' dy='-45' />
+    <styleChange dx='160' dy='-76' />
+    <line dx='0' dy='148' />
+    <line dx='33' dy='0' />
+    <line dx='0' dy='-54' />
+    <line dx='5' dy='0' />
+    <line dx='7' dy='0' />
+    <line dx='27' dy='-3' />
+    <line dx='21' dy='-12' />
+    <line dx='10' dy='-15' />
+    <line dx='4' dy='-20' />
+    <line dx='-5' dy='-21' />
+    <line dx='-11' dy='-14' />
+    <line dx='-19' dy='-9' />
+    <line dx='-27' dy='-3' />
+    <line dx='-26' dy='1' />
+    <line dx='-19' dy='2' />
+    <styleChange dx='276' dy='-49' />
+    <line dx='40' dy='0' />
+    <line dx='0' dy='121' />
+    <line dx='34' dy='0' />
+    <line dx='0' dy='-121' />
+    <line dx='41' dy='0' />
+    <line dx='0' dy='-29' />
+    <line dx='-115' dy='0' />
+    <line dx='0' dy='29' />
+    <styleChange dx='459' dy='-78' />
+    <line dx='48' dy='150' />
+    <line dx='39' dy='0' />
+    <line dx='50' dy='-150' />
+    <line dx='-35' dy='0' />
+    <line dx='-20' dy='64' />
+    <line dx='-7' dy='26' />
+    <line dx='-6' dy='27' />
+    <line dx='-7' dy='-27' />
+    <line dx='-6' dy='-27' />
+    <line dx='-19' dy='-63' />
+    <line dx='-37' dy='0' />
+    <styleChange dx='408' dy='-78' />
+    <line dx='0' dy='150' />
+    <line dx='35' dy='0' />
+    <line dx='0' dy='-150' />
+    <line dx='-35' dy='0' />
+    <styleChange dx='651' dy='-38' />
+    <line dx='3' dy='-15' />
+    <line dx='1' dy='0' />
+    <line dx='4' dy='15' />
+    <line dx='3' dy='15' />
+    <line dx='10' dy='31' />
+    <line dx='-33' dy='0' />
+    <line dx='9' dy='-31' />
+    <line dx='3' dy='-15' />
+    <styleChange dx='753' dy='-49' />
+    <line dx='0' dy='121' />
+    <line dx='34' dy='0' />
+    <line dx='0' dy='-121' />
+    <line dx='41' dy='0' />
+    <line dx='0' dy='-29' />
+    <line dx='-114' dy='0' />
+    <line dx='0' dy='29' />
+    <line dx='39' dy='0' />
+    <styleChange dx='634' dy='-78' />
+    <line dx='-46' dy='150' />
+    <line dx='35' dy='0' />
+    <line dx='11' dy='-39' />
+    <line dx='42' dy='0' />
+    <line dx='12' dy='39' />
+    <line dx='36' dy='0' />
+    <line dx='-46' dy='-150' />
+    <line dx='-44' dy='0' />
+    <styleChange dx='880' dy='-50' />
+    <line dx='57' dy='0' />
+    <line dx='0' dy='-28' />
+    <line dx='-91' dy='0' />
+    <line dx='0' dy='150' />
+    <line dx='94' dy='0' />
+    <line dx='0' dy='-28' />
+    <line dx='-60' dy='0' />
+    <line dx='0' dy='-36' />
+    <line dx='54' dy='0' />
+    <line dx='0' dy='-27' />
+    <line dx='-54' dy='0' />
+    <line dx='0' dy='-31' />
+    <styleChange dx='1010' dy='-106' fillStyle0='0' fillStyle1='1' />
+    <line dx='-19' dy='0' />
+    <line dx='0' dy='50' />
+    <line dx='-10' dy='0' />
+    <line dx='0' dy='-50' />
+    <line dx='-19' dy='0' />
+    <line dx='0' dy='-9' />
+    <line dx='48' dy='0' />
+    <line dx='0' dy='9' />
+    <styleChange dx='1031' dy='-115' />
+    <line dx='16' dy='47' />
+    <line dx='14' dy='-47' />
+    <line dx='15' dy='0' />
+    <line dx='0' dy='59' />
+    <line dx='-9' dy='0' />
+    <line dx='0' dy='-49' />
+    <line dx='-15' dy='49' />
+    <line dx='-10' dy='0' />
+    <line dx='-16' dy='-50' />
+    <line dx='0' dy='50' />
+    <line dx='-9' dy='0' />
+    <line dx='0' dy='-59' />
+    <line dx='14' dy='0' />
+    <styleChange dx='-893' dy='-78' fillStyle0='1' fillStyle1='0' />
+    <line dx='-47' dy='150' />
+    <line dx='36' dy='0' />
+    <line dx='11' dy='-39' />
+    <line dx='41' dy='0' />
+    <line dx='13' dy='39' />
+    <line dx='35' dy='0' />
+    <line dx='-45' dy='-150' />
+    <line dx='-44' dy='0' />
+    <styleChange dx='-877' dy='-38' />
+    <line dx='3' dy='-15' />
+    <line dx='2' dy='0' />
+    <line dx='3' dy='15' />
+    <line dx='3' dy='15' />
+    <line dx='10' dy='31' />
+    <line dx='-33' dy='0' />
+    <line dx='9' dy='-31' />
+    <line dx='3' dy='-15' />
+    <styleChange dx='-784' dy='-76' />
+    <line dx='0' dy='147' />
+    <line dx='15' dy='2' />
+    <line dx='23' dy='0' />
+    <line dx='39' dy='-5' />
+    <line dx='29' dy='-14' />
+    <curve cdx='11' cdy='-9' dx='7' dy='-16' />
+    <curve cdx='6' cdy='-14' dx='0' dy='-22' />
+    <curve cdx='0' cdy='-19' dx='-6' dy='-14' />
+    <curve cdx='-7' cdy='-15' dx='-11' dy='-7' />
+    <curve cdx='-11' cdy='-10' dx='-14' dy='-3' />
+    <line dx='-36' dy='-4' />
+    <line dx='-25' dy='1' />
+    <line dx='-20' dy='2' />
+    <styleChange dx='-745' dy='-53' />
+    <line dx='10' dy='0' />
+    <curve cdx='21' cdy='0' dx='13' dy='13' />
+    <curve cdx='12' cdy='11' dx='0' dy='23' />
+    <curve cdx='0' cdy='18' dx='-6' dy='12' />
+    <line dx='-17' dy='18' />
+    <line dx='-27' dy='5' />
+    <line dx='-6' dy='-1' />
+    <line dx='-5' dy='0' />
+    <line dx='0' dy='-97' />
+    <line dx='5' dy='-2' />
+    <styleChange dx='-638' dy='-1' />
+    <curve cdx='0' cdy='20' dx='9' dy='17' />
+    <curve cdx='7' cdy='18' dx='16' dy='10' />
+    <curve cdx='15' cdy='9' dx='22' dy='1' />
+    <line dx='39' dy='-9' />
+    <curve cdx='16' cdy='-10' dx='9' dy='-17' />
+    <curve cdx='9' cdy='-18' dx='1' dy='-25' />
+    <curve cdx='0' cdy='-21' dx='-9' dy='-16' />
+    <curve cdx='-8' cdy='-17' dx='-15' dy='-11' />
+    <line dx='-39' dy='-10' />
+    <line dx='-38' dy='10' />
+    <line dx='-25' dy='28' />
+    <curve cdx='-9' cdy='17' dx='0' dy='24' />
+    <styleChange dx='-567' dy='-54' />
+    <curve cdx='11' cdy='1' dx='9' dy='7' />
+    <line dx='12' dy='18' />
+    <line dx='4' dy='24' />
+    <line dx='-4' dy='27' />
+    <line dx='-12' dy='18' />
+    <line dx='-20' dy='6' />
+    <line dx='-19' dy='-6' />
+    <line dx='-13' dy='-18' />
+    <line dx='-4' dy='-26' />
+    <line dx='4' dy='-25' />
+    <line dx='13' dy='-19' />
+    <curve cdx='8' cdy='-7' dx='11' dy='0' />
+    <styleChange dx='-447' dy='-78' />
+    <line dx='-15' dy='1' />
+    <line dx='-12' dy='1' />
+    <line dx='0' dy='147' />
+    <line dx='16' dy='2' />
+    <line dx='21' dy='0' />
+    <line dx='36' dy='-4' />
+    <line dx='22' dy='-9' />
+    <line dx='11' dy='-14' />
+    <line dx='4' dy='-18' />
+    <curve cdx='0' cdy='-14' dx='-7' dy='-10' />
+    <line dx='-22' dy='-13' />
+    <curve cdx='13' cdy='-5' dx='5' dy='-8' />
+    <curve cdx='7' cdy='-9' dx='0' dy='-10' />
+    <line dx='-6' dy='-18' />
+    <line dx='-13' dy='-11' />
+    <line dx='-17' dy='-7' />
+    <line dx='-26' dy='-2' />
+    <line dx='-17' dy='1' />
+    <styleChange dx='-409' dy='-50' />
+    <curve cdx='7' cdy='4' dx='0' dy='9' />
+    <curve cdx='0' cdy='9' dx='-7' dy='5' />
+    <line dx='-21' dy='5' />
+    <line dx='-11' dy='0' />
+    <line dx='0' dy='-36' />
+    <line dx='6' dy='0' />
+    <line dx='9' dy='-1' />
+    <line dx='17' dy='5' />
+    <styleChange dx='-307' dy='-50' />
+    <line dx='58' dy='0' />
+    <line dx='0' dy='-28' />
+    <line dx='-92' dy='0' />
+    <line dx='0' dy='150' />
+    <line dx='95' dy='0' />
+    <line dx='0' dy='-28' />
+    <line dx='-61' dy='0' />
+    <line dx='0' dy='-36' />
+    <line dx='54' dy='0' />
+    <line dx='0' dy='-27' />
+    <line dx='-54' dy='0' />
+    <line dx='0' dy='-31' />
+    <styleChange dx='-210' dy='-86' fillStyle0='0' fillStyle1='1' />
+    <line dx='11' dy='12' />
+    <line dx='16' dy='4' />
+    <line dx='15' dy='-4' />
+    <line dx='5' dy='-3' />
+    <line dx='3' dy='0' />
+    <line dx='-1' dy='-2' />
+    <line dx='5' dy='-7' />
+    <curve cdx='4' cdy='-7' dx='1' dy='-9' />
+    <line dx='-5' dy='-16' />
+    <line dx='-12' dy='-11' />
+    <line dx='-15' dy='-4' />
+    <line dx='-15' dy='4' />
+    <line dx='-12' dy='11' />
+    <line dx='-5' dy='16' />
+    <line dx='5' dy='16' />
+    <styleChange dx='-223' dy='-102' />
+    <line dx='6' dy='-19' />
+    <line dx='15' dy='-15' />
+    <line dx='19' dy='-5' />
+    <line dx='20' dy='5' />
+    <line dx='14' dy='15' />
+    <line dx='5' dy='19' />
+    <line dx='-5' dy='20' />
+    <line dx='-14' dy='14' />
+    <line dx='-20' dy='5' />
+    <line dx='-19' dy='-5' />
+    <line dx='-15' dy='-14' />
+    <line dx='-6' dy='-20' />
+    <styleChange dx='-169' dy='-99' />
+    <curve cdx='-3' cdy='3' dx='-5' dy='0' />
+    <line dx='2' dy='2' />
+    <line dx='3' dy='4' />
+    <line dx='4' dy='5' />
+    <line dx='4' dy='6' />
+    <line dx='0' dy='2' />
+    <line dx='-10' dy='0' />
+    <line dx='-3' dy='-7' />
+    <line dx='-6' dy='-8' />
+    <line dx='-7' dy='-2' />
+    <line dx='-1' dy='0' />
+    <line dx='0' dy='17' />
+    <line dx='-9' dy='0' />
+    <line dx='0' dy='-42' />
+    <line dx='9' dy='0' />
+    <line dx='13' dy='0' />
+    <line dx='6' dy='3' />
+    <line dx='4' dy='3' />
+    <line dx='2' dy='6' />
+    <line dx='-3' dy='8' />
+    <styleChange dx='-175' dy='-106' />
+    <line dx='-1' dy='-4' />
+    <line dx='-3' dy='-2' />
+    <line dx='-8' dy='0' />
+    <line dx='-4' dy='0' />
+    <line dx='0' dy='11' />
+    <line dx='4' dy='0' />
+    <line dx='8' dy='0' />
+    <line dx='3' dy='-3' />
+    <line dx='1' dy='-2' />
+    <styleChange dx='-124' dy='0' fillStyle0='1' fillStyle1='0' />
+    <line dx='9' dy='38' />
+    <line dx='26' dy='26' />
+    <line dx='43' dy='10' />
+    <line dx='23' dy='-2' />
+    <line dx='15' dy='-5' />
+    <line dx='-5' dy='-26' />
+    <line dx='-13' dy='3' />
+    <line dx='-15' dy='2' />
+    <curve cdx='-23' cdy='0' dx='-13' dy='-13' />
+    <curve cdx='-12' cdy='-14' dx='0' dy='-22' />
+    <curve cdx='0' cdy='-17' dx='7' dy='-10' />
+    <line dx='16' dy='-17' />
+    <line dx='25' dy='-6' />
+    <line dx='16' dy='3' />
+    <line dx='12' dy='3' />
+    <line dx='7' dy='-26' />
+    <line dx='-15' dy='-5' />
+    <line dx='-22' dy='-2' />
+    <line dx='-41' dy='9' />
+    <curve cdx='-18' cdy='9' dx='-11' dy='18' />
+    <curve cdx='-11' cdy='18' dx='0' dy='26' />
+    <styleChange dx='-402' dy='40' />
+    <line dx='-11' dy='6' />
+    <line dx='-15' dy='3' />
+    <line dx='-7' dy='0' />
+    <line dx='-6' dy='-2' />
+    <line dx='0' dy='-42' />
+    <line dx='12' dy='0' />
+    <line dx='16' dy='2' />
+    <curve cdx='6' cdy='2' dx='4' dy='5' />
+    <line dx='4' dy='12' />
+    <line dx='-3' dy='14' />
+  </DefineShape3>
+  <!-- offset=883817 size=37 -->
+  <DefineShape id='4099' bounds='1402x85'>
+    <fillstyle type='0' color='#FED69A' />
+    <styleChange dx='1402' dy='85' fillStyle1='1' />
+    <line dx='-1402' dy='0' />
+    <line dx='0' dy='-85' />
+    <line dx='1402' dy='0' />
+    <line dx='0' dy='85' />
+  </DefineShape>
+  <!-- offset=883854 size=26 -->
+  <DefineSprite id='4101'>
+    <!-- sprite framecount=1 -->
+    <PlaceObject2 idref='4099' depth='1' matrix='t0,0'/>
+    <ShowFrame/>
+  </DefineSprite>
+  <!-- offset=883880 size=927 -->
+  <DefineSprite id='4103'>
+    <!-- sprite framecount=105 -->
+    <ShowFrame/>
+    <PlaceObject2 idref='4097' depth='1' ratio='1' matrix='s0.343338,0.343338 t-1,-471'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s0.570755,0.570755 t-1,-355'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s0.7568207,0.7568207 t-1,-259'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s0.9015503,0.9015503 t-1,-185'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.0049133,1.0049133 t-1,-132'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.0669403,1.0669403 t-1,-101'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.087616,1.087616 t-1,-90'/>
+    <PlaceObject2 idref='4098' depth='7' cxform='256r+0 256g+0 256b+0' matrix='s0.7958374,0.7958374 t-23,-602'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.1263885,1.1263885 t-1,-70'/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.1651459,1.1651459 t-1,-49'/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.2039185,1.2039185 t-1,-31'/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.242691,1.242691 t-1,-11'/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.2814331,1.2814331 t-1,9'/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='7' cxform='0r+0 0g+0 0b+0'/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <PlaceObject2 idref='4101' name='progress_mc' depth='8' ratio='17' matrix='t-707,-253'/>
+    <ShowFrame/>
+    <FrameLabel label='start'/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <FrameLabel label='finish'/>
+    <ShowFrame/>
+    <ShowFrame/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.3378601,1.3378601 t-1,21'/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.3942871,1.3942871 t-1,33'/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.3778687,1.3778687 t-1,25'/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.3285828,1.3285828 t-1,1'/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.2464905,1.2464905 t-1,-38'/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s1.131546,1.131546 t-1,-93'/>
+    <PlaceObject2 depth='7' cxform='256r+0 256g+0 256b+0'/>
+    <ShowFrame/>
+    <RemoveObject2 depth='7'/>
+    <PlaceObject2 depth='1' matrix='s0.98376465,0.98376465 t-1,-165'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s0.8031311,0.8031311 t-1,-250'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s0.58966064,0.58966064 t0,-353'/>
+    <ShowFrame/>
+    <PlaceObject2 depth='1' matrix='s0.343338,0.343338 t-1,-471'/>
+    <ShowFrame/>
+    <RemoveObject2 depth='1'/>
+    <RemoveObject2 depth='8'/>
+    <ShowFrame/>
+  </DefineSprite>
+  <!-- offset=884807 size=11795 -->
+  <DefineFont3 id='4104' font='Arial' numGlyphs='114' italic='false' bold='false' ansi='false' wideOffsets='false' wideCodes='true' shiftJIS='false' langCode='1' hasLayout='true' ascent='18540' descent='4340' leading='2400' kerningCount='0' codepointCount='114' advanceCount='114' boundsCount='114'>
+    <glyph codepoint='32( )' advance='5700' bounds='0x0'>
+    </glyph>
+    <glyph codepoint='33(!)' advance='5700' bounds='0x0'>
+      SSCR13	2310	-3640				2310	-3640
+      SER	-550	-7770				1760	-11410
+      SER	0	-3250				1760	-14660
+      SER	2230	0				3990	-14660
+      SER	0	3250				3990	-11410
+      SER	-520	7770				3470	-3640
+      SER	-1160	0				2310	-3640
+      SSCR12	1840	0				1840	0
+      SER	0	-2050				1840	-2050
+      SER	2070	0				3910	-2050
+      SER	0	2050				3910	0
+      SER	-2070	0				1840	0
+    </glyph>
+    <glyph codepoint='34(")' advance='7280' bounds='0x0'>
+      SSCR15	1440	-9470				1440	-9470
+      SER	-500	-2790				940	-12260
+      SER	0	-2400				940	-14660
+      SER	2050	0				2990	-14660
+      SER	0	2400				2990	-12260
+      SER	-450	2790				2540	-9470
+      SER	-1100	0				1440	-9470
+      SSCR15	4750	-9470				4750	-9470
+      SER	-490	-2790				4260	-12260
+      SER	0	-2400				4260	-14660
+      SER	2050	0				6310	-14660
+      SER	0	2400				6310	-12260
+      SER	-480	2790				5830	-9470
+      SER	-1080	0				4750	-9470
+    </glyph>
+    <glyph codepoint='35(#)' advance='11400' bounds='0x0'>
+      SSCR12	1030	250				1030	250
+      SER	870	-4260				1900	-4010
+      SER	-1690	0				210	-4010
+      SER	0	-1490				210	-5500
+      SER	1990	0				2200	-5500
+      SER	740	-3630				2940	-9130
+      SER	-2730	0				210	-9130
+      SER	0	-1490				210	-10620
+      SER	3030	0				3240	-10620
+      SER	870	-4290				4110	-14910
+      SER	1500	0				5610	-14910
+      SER	-870	4290				4740	-10620
+      SER	3150	0				7890	-10620
+      SER	870	-4290				8760	-14910
+      SER	1510	0				10270	-14910
+      SER	-870	4290				9400	-10620
+      SER	1730	0				11130	-10620
+      SER	0	1490				11130	-9130
+      SER	-2030	0				9100	-9130
+      SER	-750	3630				8350	-5500
+      SER	2780	0				11130	-5500
+      SER	0	1490				11130	-4010
+      SER	-3080	0				8050	-4010
+      SER	-870	4260				7180	250
+      SER	-1500	0				5680	250
+      SER	860	-4260				6540	-4010
+      SER	-3140	0				3400	-4010
+      SER	-870	4260				2530	250
+      SER	-1500	0				1030	250
+      SSCR14	3700	-5500				3700	-5500
+      SER	3140	0				6840	-5500
+      SER	750	-3630				7590	-9130
+      SER	-3150	0				4440	-9130
+      SER	-740	3630				3700	-5500
+    </glyph>
+    <glyph codepoint='36($)' advance='11400' bounds='0x0'>
+      SSCR14	5100	2110				5100	2110
+      SER	0	-1800				5100	310
+      CER	-1350	-170	-840	-430		2910	-290
+      CER	-850	-440	-610	-970		1450	-1700
+      CER	-620	-970	-100	-1400		730	-4070
+      SER	1810	-340				2540	-4410
+      CER	210	1450	530	680		3280	-2280
+      CER	760	960	1060	110		5100	-1210
+      SER	0	-5730				5100	-6940
+      CER	-1110	-210	-1160	-650		2830	-7800
+      CER	-860	-480	-460	-850		1510	-9130
+      CER	-470	-850	0	-1080		1040	-11060
+      CER	0	-1920	1360	-1190		2400	-14170
+      CER	910	-800	1790	-180		5100	-15150
+      SER	0	-860				5100	-16010
+      SER	1060	0				6160	-16010
+      SER	0	860				6160	-15150
+      CER	1570	150	920	770		8650	-14230
+      CER	1180	980	240	1710		10070	-11540
+      SER	-1860	280				8210	-11260
+      CER	-160	-1060	-500	-560		7550	-12880
+      CER	-510	-570	-880	-180		6160	-13630
+      SER	0	5190				6160	-8440
+      CER	1360	340	440	190		7960	-7910
+      CER	840	370	530	530		9330	-7010
+      CER	530	530	290	730		10150	-5750
+      CER	280	730	0	850		10430	-4170
+      CER	0	1870	-1190	1250		9240	-1050
+      CER	-1190	1250	-1890	90		6160	290
+      SER	0	1820				6160	2110
+      SER	-1060	0				5100	2110
+      SSCR15	5100	-13650				5100	-13650
+      CER	-1050	160	-600	680		3450	-12810
+      CER	-610	680	0	930		2840	-11200
+      CER	0	920	520	620		3360	-9660
+      CER	510	620	1230	370		5100	-8670
+      SER	0	-4980				5100	-13650
+      SSCR14	6160	-1210				6160	-1210
+      CER	1050	-130	690	-780		7900	-2120
+      CER	680	-780	0	-1150		8580	-4050
+      CER	0	-980	-480	-590		8100	-5620
+      CER	-490	-600	-1450	-470		6160	-6690
+      SER	0	5480				6160	-1210
+    </glyph>
+    <glyph codepoint='37(%)' advance='18220' bounds='0x0'>
+      SSCR15	1190	-11140				1190	-11140
+      CER	0	-1570	790	-1100		1980	-13810
+      CER	790	-1100	1500	0		4270	-14910
+      CER	1380	0	910	990		6560	-13920
+      CER	900	980	0	1910		7460	-11030
+      CER	0	1860	-910	1010		6550	-8160
+      CER	-920	1000	-1340	0		4290	-7160
+      CER	-1330	0	-880	-990		2080	-8150
+      CER	-890	-990	0	-2000		1190	-11140
+      SER	0	0				1190	-11140
+      SSCR15	4320	-13670				4320	-13670
+      CER	-670	0	-440	580		3210	-13090
+      CER	-450	580	0	1550		2760	-10960
+      CER	0	1410	450	580		3210	-8970
+      CER	450	570	660	0		4320	-8400
+      CER	680	0	450	-580		5450	-8980
+      CER	440	-580	0	-1540		5890	-11100
+      CER	0	-1420	-450	-570		5440	-13090
+      CER	-450	-580	-670	0		4320	-13670
+      SER	0	0				4320	-13670
+      SSCR14	4330	540				4330	540
+      SER	8020	-15450				12350	-14910
+      SER	1460	0				13810	-14910
+      SER	-7990	15450				5820	540
+      SER	-1490	0				4330	540
+      SSCR15	10670	-3440				10670	-3440
+      CER	0	-1580	790	-1090		11460	-6110
+      CER	790	-1100	1510	0		13760	-7210
+      CER	1380	0	910	990		16050	-6220
+      CER	900	980	0	1910		16950	-3330
+      CER	0	1860	-910	1010		16040	-460
+      CER	-920	1000	-1350	0		13770	540
+      CER	-1330	0	-880	-990		11560	-450
+      CER	-890	-1000	0	-1990		10670	-3440
+      SER	0	0				10670	-3440
+      SSCR15	13810	-5970				13810	-5970
+      CER	-680	0	-440	580		12690	-5390
+      CER	-450	580	0	1550		12240	-3260
+      CER	0	1400	450	580		12690	-1280
+      CER	450	580	660	0		13800	-700
+      CER	690	0	450	-580		14940	-1280
+      CER	440	-580	0	-1540		15380	-3400
+      CER	0	-1420	-450	-570		14930	-5390
+      CER	-450	-580	-670	0		13810	-5970
+      SER	0	0				13810	-5970
+    </glyph>
+    <glyph codepoint='38(?)' advance='13660' bounds='0x0'>
+      SSCR15	9730	-1730				9730	-1730
+      CER	-890	990	-1050	500		7790	-240
+      CER	-1050	490	-1220	0		5520	250
+      CER	-2250	0	-1320	-1520		1950	-1270
+      CER	-1070	-1240	0	-1530		880	-4040
+      CER	0	-1360	880	-1090		1760	-6490
+      CER	870	-1100	1740	-830		4370	-8420
+      CER	-990	-1140	-330	-710		3050	-10270
+      CER	-330	-710	0	-660		2720	-11640
+      CER	0	-1320	1040	-970		3760	-13930
+      CER	1030	-980	1570	0		6360	-14910
+      CER	1500	0	960	920		8820	-13990
+      CER	950	920	0	1290		9770	-11780
+      CER	0	2090	-2770	1480		7000	-8210
+      SER	2630	3350				9630	-4860
+      CER	450	-880	250	-1160		10330	-6900
+      SER	1870	400				12200	-6500
+      CER	-480	1920	-820	1240		10900	-3340
+      CER	1010	1340	1280	910		13190	-1090
+      SER	-1210	1430				11980	340
+      CER	-1090	-700	-1160	-1370		9730	-1730
+      SER	0	0				9730	-1730
+      SSCR15	6070	-9370				6070	-9370
+      CER	1170	-690	350	-520		7590	-10580
+      CER	340	-520	0	-630		7930	-11730
+      CER	0	-750	-470	-470		7460	-12950
+      CER	-480	-480	-710	0		6270	-13430
+      CER	-730	0	-480	470		5060	-12960
+      CER	-490	470	0	680		4570	-11810
+      CER	0	340	180	380		4750	-11090
+      CER	170	370	350	420		5270	-10300
+      SER	800	930				6070	-9370
+      SSCR15	8600	-3150				8600	-3150
+      SER	-3300	-4090				5300	-7240
+      CER	-1460	870	-510	750		3330	-5620
+      CER	-510	740	0	730		2820	-4150
+      CER	0	890	710	960		3530	-2300
+      CER	710	960	1300	0		5540	-1340
+      CER	810	0	870	-500		7220	-1840
+      CER	860	-510	520	-800		8600	-3150
+      SER	0	0				8600	-3150
+    </glyph>
+    <glyph codepoint='39(?)' advance='3920' bounds='0x0'>
+      SSCR15	1360	-9470				1360	-9470
+      SER	-460	-2740				900	-12210
+      SER	0	-2450				900	-14660
+      SER	2050	0				2950	-14660
+      SER	0	2450				2950	-12210
+      SER	-480	2740				2470	-9470
+      SER	-1110	0				1360	-9470
+    </glyph>
+    <glyph codepoint='40(()' advance='6820' bounds='0x0'>
+      SSCR14	4790	4310				4790	4310
+      CER	-1490	-1880	-1030	-2520		2270	-90
+      CER	-1030	-2520	0	-2700		1240	-5310
+      CER	0	-2380	770	-2180		2010	-9870
+      CER	900	-2530	1880	-2510		4790	-14910
+      SER	1290	0				6080	-14910
+      CER	-1210	2080	-390	890		4480	-11940
+      CER	-610	1380	-350	1500		3520	-9060
+      CER	-430	1870	0	1890		3090	-5300
+      CER	0	4810	2990	4800		6080	4310
+      SER	-1290	0				4790	4310
+    </glyph>
+    <glyph codepoint='41())' advance='6820' bounds='0x0'>
+      SSCR14	2530	4310				2530	4310
+      SER	-1290	0				1240	4310
+      CER	2990	-4800	0	-4810		4230	-5300
+      CER	0	-1880	-430	-1850		3800	-9030
+      CER	-340	-1500	-610	-1380		2850	-11910
+      CER	-390	-900	-1220	-2100		1240	-14910
+      SER	1290	0				2530	-14910
+      CER	1880	2510	900	2530		5310	-9870
+      CER	770	2180	0	2380		6080	-5310
+      CER	0	2700	-1030	2520		5050	-90
+      CER	-1040	2520	-1480	1880		2530	4310
+      SER	0	0				2530	4310
+    </glyph>
+    <glyph codepoint='42(*)' advance='7980' bounds='0x0'>
+      SSCR15	640	-11970				640	-11970
+      SER	460	-1420				1100	-13390
+      CER	1590	560	720	410		3410	-12420
+      CER	-190	-1810	-10	-680		3210	-14910
+      SER	1450	0				4660	-14910
+      CER	-30	990	-200	1490		4430	-12430
+      CER	1030	-520	1330	-440		6790	-13390
+      SER	460	1420				7250	-11970
+      CER	-1270	420	-1220	140		4760	-11410
+      CER	610	530	1110	1360		6480	-9520
+      SER	-1200	850				5280	-8670
+      CER	-580	-790	-790	-1360		3910	-10820
+      CER	-740	1410	-560	740		2610	-8670
+      SER	-1180	-850				1430	-9520
+      CER	1160	-1430	500	-460		3090	-11410
+      CER	-1290	-250	-1160	-310		640	-11970
+      SER	0	0				640	-11970
+    </glyph>
+    <glyph codepoint='43(+)' advance='11960' bounds='0x0'>
+      SSCR14	5130	-2370				5130	-2370
+      SER	0	-4020				5130	-6390
+      SER	-3990	0				1140	-6390
+      SER	0	-1680				1140	-8070
+      SER	3990	0				5130	-8070
+      SER	0	-3990				5130	-12060
+      SER	1700	0				6830	-12060
+      SER	0	3990				6830	-8070
+      SER	3990	0				10820	-8070
+      SER	0	1680				10820	-6390
+      SER	-3990	0				6830	-6390
+      SER	0	4020				6830	-2370
+      SER	-1700	0				5130	-2370
+    </glyph>
+    <glyph codepoint='44(,)' advance='5700' bounds='0x0'>
+      SSCR12	1820	0				1820	0
+      SER	0	-2050				1820	-2050
+      SER	2050	0				3870	-2050
+      SER	0	2050				3870	0
+      CER	0	1130	-400	700		3470	1830
+      CER	-400	690	-870	380		2200	2900
+      SER	-500	-770				1700	2130
+      CER	570	-250	270	-480		2540	1400
+      CER	270	-490	30	-910		2840	0
+      SER	-1020	0				1820	0
+    </glyph>
+    <glyph codepoint='45(-)' advance='6820' bounds='0x0'>
+      SSCR14	650	-4400				650	-4400
+      SER	0	-1810				650	-6210
+      SER	5530	0				6180	-6210
+      SER	0	1810				6180	-4400
+      SER	-5530	0				650	-4400
+    </glyph>
+    <glyph codepoint='46(.)' advance='5700' bounds='0x0'>
+      SSCR12	1860	0				1860	0
+      SER	0	-2050				1860	-2050
+      SER	2050	0				3910	-2050
+      SER	0	2050				3910	0
+      SER	-2050	0				1860	0
+    </glyph>
+    <glyph codepoint='47(/)' advance='5700' bounds='0x0'>
+      SSCR9	0	250				0	250
+      SER	4250	-15160				4250	-14910
+      SER	1440	0				5690	-14910
+      SER	-4240	15160				1450	250
+      SER	-1450	0				0	250
+    </glyph>
+    <glyph codepoint='48(0)' advance='11400' bounds='0x0'>
+      SSCR14	850	-7230				850	-7230
+      CER	0	-2600	540	-1580		1390	-11410
+      CER	530	-1590	1060	-860		2980	-13860
+      CER	1050	-860	1600	0		5630	-14720
+      CER	1180	0	890	480		7700	-14240
+      CER	890	470	580	900		9170	-12870
+      CER	580	890	330	1290		10080	-10690
+      CER	330	1280	0	2180		10410	-7230
+      CER	0	2580	-530	1590		9880	-3060
+      CER	-530	1580	-1050	870		8300	-610
+      CER	-1060	860	-1610	0		5630	250
+      CER	-2120	0	-1210	-1520		2300	-1270
+      CER	-1450	-1830	0	-4130		850	-7230
+      SER	0	0				850	-7230
+      SSCR14	2700	-7230				2700	-7230
+      CER	0	3610	850	1200		3550	-2420
+      CER	840	1190	1240	0		5630	-1230
+      CER	1240	0	850	-1200		7720	-2430
+      CER	840	-1200	0	-3600		8560	-7230
+      CER	0	-3620	-840	-1190		7720	-12040
+      CER	-850	-1190	-1260	0		5610	-13230
+      CER	-1240	0	-740	1050		3630	-12180
+      CER	-930	1340	0	3610		2700	-7230
+      SER	0	0				2700	-7230
+    </glyph>
+    <glyph codepoint='49(1)' advance='11400' bounds='0x0'>
+      SSCR14	7630	0				7630	0
+      SER	-1800	0				5830	0
+      SER	0	-11470				5830	-11470
+      CER	-650	620	-1050	620		4130	-10230
+      CER	-1060	620	-840	310		2230	-9300
+      SER	0	-1740				2230	-11040
+      CER	1510	-710	1130	-1010		4870	-12760
+      CER	1130	-1010	470	-950		6470	-14720
+      SER	1160	0				7630	-14720
+      SER	0	14720				7630	0
+    </glyph>
+    <glyph codepoint='50(2)' advance='11400' bounds='0x0'>
+      SSCR15	10310	-1730				10310	-1730
+      SER	0	1730				10310	0
+      SER	-9690	0				620	0
+      CER	-20	-650	230	-600		830	-1250
+      CER	370	-990	820	-960		2020	-3200
+      CER	810	-960	1540	-1260		4370	-5420
+      CER	2390	-1960	840	-1140		7600	-8520
+      CER	840	-1150	0	-1020		8440	-10690
+      CER	0	-1070	-760	-730		7680	-12490
+      CER	-770	-740	-1230	0		5680	-13230
+      CER	-1300	0	-780	780		3600	-12450
+      CER	-780	780	-10	1380		2810	-10290
+      SER	-1850	-190				960	-10480
+      CER	190	-2070	1240	-1080		2390	-13630
+      CER	1240	-1090	2090	0		5720	-14720
+      CER	2110	0	1230	1170		9060	-13550
+      CER	1230	1170	0	1730		10290	-10650
+      CER	0	880	-360	850		9930	-8920
+      CER	-360	850	-830	940		8740	-7130
+      CER	-840	940	-1940	1640		5960	-4550
+      CER	-1620	1360	-460	490		3880	-2700
+      CER	-460	480	-300	490		3120	-1730
+      SER	7190	0				10310	-1730
+    </glyph>
+    <glyph codepoint='51(3)' advance='11400' bounds='0x0'>
+      SSCR13	860	-3870				860	-3870
+      SER	1800	-240				2660	-4110
+      CER	310	1530	750	680		3720	-1900
+      CER	740	670	1070	0		5530	-1230
+      CER	1270	0	880	-880		7680	-2110
+      CER	870	-880	0	-1300		8550	-4290
+      CER	0	-1240	-810	-800		7740	-6330
+      CER	-810	-810	-1250	0		5680	-7140
+      CER	-510	0	-760	200		4410	-6940
+      SER	200	-1580				4610	-8520
+      CER	180	20	110	0		4900	-8500
+      CER	1150	0	920	-600		6970	-9100
+      CER	920	-600	0	-1250		7890	-10950
+      CER	0	-990	-670	-650		7220	-12590
+      CER	-670	-650	-1060	0		5490	-13240
+      CER	-1050	0	-700	660		3740	-12580
+      CER	-700	660	-200	1320		2840	-10600
+      SER	-1800	-320				1040	-10920
+      CER	330	-1810	1170	-990		2540	-13720
+      CER	1170	-1000	1740	0		5450	-14720
+      CER	1200	0	1010	520		7660	-14200
+      CER	1010	510	540	890		9210	-12800
+      CER	530	890	0	1000		9740	-10910
+      CER	0	950	-510	780		9230	-9180
+      CER	-510	780	-1000	460		7720	-7940
+      CER	1300	300	720	950		9740	-6690
+      CER	720	940	0	1420		10460	-4330
+      CER	0	1920	-1400	1340		9060	-1070
+      CER	-1400	1330	-2140	0		5520	260
+      CER	-1930	0	-1270	-1150		2320	-890
+      CER	-1280	-1150	-180	-1830		860	-3870
+      SER	0	0				860	-3870
+    </glyph>
+    <glyph codepoint='52(4)' advance='11400' bounds='0x0'>
+      SSCR14	6620	0				6620	0
+      SER	0	-3510				6620	-3510
+      SER	-6360	0				260	-3510
+      SER	0	-1650				260	-5160
+      SER	6690	-9500				6950	-14660
+      SER	1470	0				8420	-14660
+      SER	0	9500				8420	-5160
+      SER	1980	0				10400	-5160
+      SER	0	1650				10400	-3510
+      SER	-1980	0				8420	-3510
+      SER	0	3510				8420	0
+      SER	-1800	0				6620	0
+      SSCR14	6620	-5160				6620	-5160
+      SER	0	-6610				6620	-11770
+      SER	-4590	6610				2030	-5160
+      SER	4590	0				6620	-5160
+    </glyph>
+    <glyph codepoint='53(5)' advance='11400' bounds='0x0'>
+      SSCR13	850	-3840				850	-3840
+      SER	1890	-160				2740	-4000
+      CER	210	1380	770	700		3720	-1920
+      CER	760	690	1080	0		5560	-1230
+      CER	1300	0	900	-980		7760	-2210
+      CER	900	-980	0	-1620		8660	-4810
+      CER	0	-1540	-860	-890		7800	-7240
+      CER	-870	-890	-1400	0		5530	-8130
+      CER	-870	0	-700	400		3960	-7730
+      CER	-700	390	-400	630		2860	-6710
+      SER	-1690	-220				1170	-6930
+      SER	1420	-7530				2590	-14460
+      SER	7290	0				9880	-14460
+      SER	0	1720				9880	-12740
+      SER	-5850	0				4030	-12740
+      SER	-790	3940				3240	-8800
+      CER	1320	-920	1450	0		6010	-9720
+      CER	1920	0	1320	1330		9250	-8390
+      CER	1320	1330	0	2090		10570	-4970
+      CER	0	1990	-1160	1450		9410	-1530
+      CER	-1410	1780	-2440	0		5560	250
+      CER	-2000	0	-1260	-1120		2300	-870
+      CER	-1270	-1120	-180	-1850		850	-3840
+      SER	0	0				850	-3840
+    </glyph>
+    <glyph codepoint='54(6)' advance='11400' bounds='0x0'>
+      SSCR15	10190	-11070				10190	-11070
+      SER	-1790	140				8400	-10930
+      CER	-240	-1060	-440	-480		7720	-12470
+      CER	-730	-770	-1070	0		5920	-13240
+      CER	-860	0	-650	480		4410	-12760
+      CER	-850	620	-490	1190		3070	-10950
+      CER	-490	1190	-20	2200		2560	-7560
+      CER	650	-990	940	-480		4150	-9030
+      CER	940	-480	1030	0		6120	-9510
+      CER	1800	0	1270	1330		9190	-8180
+      CER	1260	1320	0	2100		10450	-4760
+      CER	0	1380	-590	1190		9860	-2190
+      CER	-600	1180	-1040	630		8220	-380
+      CER	-1040	630	-1320	0		5860	250
+      CER	-2250	0	-1420	-1650		2190	-1400
+      CER	-1420	-1660	0	-3800		770	-6860
+      CER	0	-4250	1570	-1930		2340	-13040
+      CER	1370	-1680	2320	0		6030	-14720
+      CER	1730	0	1110	970		8870	-13750
+      CER	1100	970	220	1710		10190	-11070
+      SER	0	0				10190	-11070
+      SSCR14	2840	-4750				2840	-4750
+      CER	0	930	400	850		3240	-2970
+      CER	390	850	710	450		4340	-1670
+      CER	710	440	780	0		5830	-1230
+      CER	1140	0	820	-920		7790	-2150
+      CER	820	-920	0	-1580		8610	-4650
+      CER	0	-1520	-810	-870		7800	-7040
+      CER	-810	-880	-1230	0		5760	-7920
+      CER	-1220	0	-850	880		3690	-7040
+      CER	-850	870	0	1420		2840	-4750
+      SER	0	0				2840	-4750
+    </glyph>
+    <glyph codepoint='55(7)' advance='11400' bounds='0x0'>
+      SSCR15	970	-12740				970	-12740
+      SER	0	-1730				970	-14470
+      SER	9490	0				10460	-14470
+      SER	0	1400				10460	-13070
+      CER	-1400	1490	-1370	2470		7690	-9110
+      CER	-1380	2470	-750	2610		5560	-4030
+      CER	-540	1840	-150	2190		4870	0
+      SER	-1850	0				3020	0
+      CER	30	-1730	650	-2450		3700	-4180
+      CER	650	-2450	1220	-2270		5570	-8900
+      CER	1210	-2280	1370	-1560		8150	-12740
+      SER	-7180	0				970	-12740
+    </glyph>
+    <glyph codepoint='56(8)' advance='11400' bounds='0x0'>
+      SSCR14	3620	-7950				3620	-7950
+      CER	-1120	-410	-540	-760		1960	-9120
+      CER	-540	-760	0	-1060		1420	-10940
+      CER	0	-1600	1150	-1090		2570	-13630
+      CER	1150	-1090	1910	0		5630	-14720
+      CER	1920	0	1170	1120		8720	-13600
+      CER	1170	1110	0	1600		9890	-10890
+      CER	0	1020	-530	760		9360	-9110
+      CER	-540	750	-1090	410		7730	-7950
+      CER	1350	440	710	980		9790	-6530
+      CER	700	980	0	1360		10490	-4190
+      CER	0	1880	-1330	1280		9160	-1030
+      CER	-1330	1280	-2170	0		5660	250
+      CER	-2170	0	-1330	-1280		2160	-1030
+      CER	-1330	-1290	0	-1920		830	-4240
+      CER	0	-1430	730	-960		1560	-6630
+      CER	720	-970	1340	-350		3620	-7950
+      SER	0	0				3620	-7950
+      SSCR15	3260	-11000				3260	-11000
+      CER	0	1040	670	660		3930	-9300
+      CER	670	660	1070	0		5670	-8640
+      CER	1040	0	670	-650		7380	-9290
+      CER	660	-660	0	-950		8040	-10900
+      CER	0	-990	-680	-670		7360	-12560
+      CER	-690	-680	-1020	0		5650	-13240
+      CER	-1030	0	-680	660		3940	-12580
+      CER	-680	660	0	920		3260	-11000
+      SER	0	0				3260	-11000
+      SSCR14	2680	-4230				2680	-4230
+      CER	0	770	370	720		3050	-2740
+      CER	360	720	720	400		4130	-1620
+      CER	720	390	830	0		5680	-1230
+      CER	1290	0	840	-830		7810	-2060
+      CER	840	-830	0	-1280		8650	-4170
+      CER	0	-1300	-860	-850		7790	-6320
+      CER	-870	-850	-1300	0		5620	-7170
+      CER	-1270	0	-830	840		3520	-6330
+      CER	-840	840	0	1260		2680	-4230
+      SER	0	0				2680	-4230
+    </glyph>
+    <glyph codepoint='57(9)' advance='11400' bounds='0x0'>
+      SSCR13	1120	-3390				1120	-3390
+      SER	1730	-160				2850	-3550
+      CER	220	1220	620	550		3690	-1780
+      CER	620	550	970	0		5280	-1230
+      CER	830	0	630	-380		6740	-1610
+      CER	620	-380	400	-630		7760	-2620
+      CER	400	-640	270	-1080		8430	-4340
+      CER	270	-1080	0	-1120		8700	-6540
+      CER	0	-120	-10	-240		8690	-6900
+      CER	-540	860	-930	540		7220	-5500
+      CER	-940	530	-1090	0		5190	-4970
+      CER	-1820	0	-1260	-1320		2110	-6290
+      CER	-1260	-1320	0	-2160		850	-9770
+      CER	0	-2230	1320	-1360		2170	-13360
+      CER	1310	-1360	1980	0		5460	-14720
+      CER	1430	0	1190	770		8080	-13950
+      CER	1180	770	620	1430		9880	-11750
+      CER	610	1420	0	2700		10490	-7630
+      CER	0	2810	-610	1670		9880	-3150
+      CER	-610	1660	-1200	870		8070	-620
+      CER	-1210	870	-1620	0		5240	250
+      CER	-1720	0	-1090	-950		2430	-700
+      CER	-1090	-960	-220	-1730		1120	-3390
+      SER	0	0				1120	-3390
+      SSCR15	8490	-9860				8490	-9860
+      CER	0	-1550	-820	-910		7670	-12320
+      CER	-830	-910	-1160	0		5680	-13230
+      CER	-1200	0	-890	980		3590	-12250
+      CER	-890	980	0	1560		2700	-9710
+      CER	0	1400	850	880		3550	-7430
+      CER	840	870	1240	0		5630	-6560
+      CER	1250	0	810	-870		7690	-7430
+      CER	800	-880	0	-1550		8490	-9860
+      SER	0	0				8490	-9860
+    </glyph>
+    <glyph codepoint='58(:)' advance='5700' bounds='0x0'>
+      SSCR15	1850	-8570				1850	-8570
+      SER	0	-2050				1850	-10620
+      SER	2050	0				3900	-10620
+      SER	0	2050				3900	-8570
+      SER	-2050	0				1850	-8570
+      SSCR12	1850	0				1850	0
+      SER	0	-2050				1850	-2050
+      SER	2050	0				3900	-2050
+      SER	0	2050				3900	0
+      SER	-2050	0				1850	0
+    </glyph>
+    <glyph codepoint='59(;)' advance='5700' bounds='0x0'>
+      SSCR15	1820	-8570				1820	-8570
+      SER	0	-2050				1820	-10620
+      SER	2050	0				3870	-10620
+      SER	0	2050				3870	-8570
+      SER	-2050	0				1820	-8570
+      SSCR12	1820	0				1820	0
+      SER	0	-2050				1820	-2050
+      SER	2050	0				3870	-2050
+      SER	0	2050				3870	0
+      CER	0	1130	-400	700		3470	1830
+      CER	-400	690	-870	380		2200	2900
+      SER	-500	-770				1700	2130
+      CER	570	-250	270	-480		2540	1400
+      CER	270	-490	30	-910		2840	0
+      SER	-1020	0				1820	0
+    </glyph>
+    <glyph codepoint='60(?)' advance='11960' bounds='0x0'>
+      SSCR14	1120	-6410				1120	-6410
+      SER	0	-1680				1120	-8090
+      SER	9710	-4100				10830	-12190
+      SER	0	1790				10830	-10400
+      SER	-7700	3160				3130	-7240
+      SER	7700	3190				10830	-4050
+      SER	0	1790				10830	-2260
+      SER	-9710	-4150				1120	-6410
+    </glyph>
+    <glyph codepoint='61(=)' advance='11960' bounds='0x0'>
+      SSCR15	10820	-8620				10820	-8620
+      SER	-9680	0				1140	-8620
+      SER	0	-1680				1140	-10300
+      SER	9680	0				10820	-10300
+      SER	0	1680				10820	-8620
+      SSCR15	10820	-4170				10820	-4170
+      SER	-9680	0				1140	-4170
+      SER	0	-1680				1140	-5850
+      SER	9680	0				10820	-5850
+      SER	0	1680				10820	-4170
+    </glyph>
+    <glyph codepoint='62(>)' advance='11960' bounds='0x0'>
+      SSCR15	10830	-6410				10830	-6410
+      SER	-9710	4150				1120	-2260
+      SER	0	-1790				1120	-4050
+      SER	7690	-3190				8810	-7240
+      SER	-7690	-3160				1120	-10400
+      SER	0	-1790				1120	-12190
+      SER	9710	4100				10830	-8090
+      SER	0	1680				10830	-6410
+    </glyph>
+    <glyph codepoint='63(?)' advance='11400' bounds='0x0'>
+      SSCR14	4720	-3610				4720	-3610
+      CER	-10	-360	0	-180		4710	-4150
+      CER	0	-1060	300	-770		5010	-5980
+      CER	220	-580	490	-590		5720	-7150
+      CER	360	-430	940	-820		7020	-8400
+      CER	930	-830	280	-490		8230	-9720
+      CER	280	-490	0	-580		8510	-10790
+      CER	0	-1050	-820	-790		7690	-12630
+      CER	-820	-800	-1190	0		5680	-13430
+      CER	-1150	0	-770	720		3760	-12710
+      CER	-770	720	-240	1530		2750	-10460
+      SER	-1850	-220				900	-10680
+      CER	250	-2050	1240	-1090		2390	-13820
+      CER	1230	-1090	2030	0		5650	-14910
+      CER	2150	0	1280	1170		9080	-13740
+      CER	1280	1170	0	1660		10360	-10910
+      CER	0	960	-450	810		9910	-9140
+      CER	-450	810	-1310	1160		8150	-7170
+      CER	-880	780	-270	370		7000	-6020
+      CER	-270	370	-130	480		6600	-5170
+      CER	-130	480	-20	1080		6450	-3610
+      SER	-1730	0				4720	-3610
+      SSCR14	4610	0				4610	0
+      SER	0	-2050				4610	-2050
+      SER	2050	0				6660	-2050
+      SER	0	2050				6660	0
+      SER	-2050	0				4610	0
+    </glyph>
+    <glyph codepoint='64(@)' advance='20800' bounds='0x0'>
+      SSCR15	11610	-1630				11610	-1630
+      CER	-650	750	-800	460		10160	-420
+      CER	-810	450	-810	0		8540	30
+      CER	-890	0	-840	-520		6810	-490
+      CER	-840	-520	-520	-1080		5450	-2090
+      CER	-530	-1080	0	-1290		4920	-4460
+      CER	0	-1590	820	-1590		5740	-7640
+      CER	810	-1600	1210	-800		7760	-10040
+      CER	1210	-800	1140	0		10110	-10840
+      CER	870	0	790	460		11770	-10380
+      CER	790	450	570	930		13130	-9000
+      SER	340	-1550				13470	-10550
+      SER	1790	0				15260	-10550
+      SER	-1440	6710				13820	-3840
+      CER	-300	1400	0	150		13520	-2290
+      CER	0	270	210	200		13730	-1820
+      CER	200	190	290	0		14220	-1630
+      CER	530	0	860	-610		15610	-2240
+      CER	1140	-800	670	-1340		17420	-4380
+      CER	660	-1350	0	-1430		18080	-7160
+      CER	0	-1670	-850	-1450		17230	-10280
+      CER	-860	-1450	-1690	-870		14680	-12600
+      CER	-1700	-870	-2050	0		10930	-13470
+      CER	-2340	0	-1930	1100		6660	-12370
+      CER	-1940	1090	-1060	2050		3660	-9230
+      CER	-1070	2040	0	2340		2590	-4850
+      CER	0	2450	1070	1770		3660	-630
+      CER	1060	1770	2020	850		6740	1990
+      CER	2010	840	2450	0		11200	2830
+      CER	2620	0	1770	-880		15590	1950
+      CER	1770	-880	880	-1260		18240	-190
+      SER	1810	0				20050	-190
+      CER	-510	1050	-1240	1090		18300	1950
+      CER	-1240	1090	-1710	640		15350	3680
+      CER	-1710	630	-2410	0		11230	4310
+      CER	-2220	0	-1870	-570		7140	3740
+      CER	-1880	-570	-1320	-1140		3940	2030
+      CER	-1320	-1150	-670	-1490		1950	-610
+      CER	-840	-1890	0	-2190		1110	-4690
+      CER	0	-2440	1000	-2210		2110	-9340
+      CER	1220	-2710	2250	-1440		5580	-13490
+      CER	2240	-1440	3200	0		11020	-14930
+      CER	2480	0	1980	1020		15480	-13910
+      CER	1970	1010	1140	2010		18590	-10890
+      CER	970	1730	0	2030		19560	-7130
+      CER	0	2900	-2040	2250		17520	-1980
+      CER	-1820	2020	-2160	0		13540	40
+      CER	-690	0	-420	-210		12430	-170
+      CER	-430	-210	-200	-390		11800	-770
+      CER	-130	-250	-60	-610		11610	-1630
+      SER	0	0				11610	-1630
+      SSCR14	6770	-4340				6770	-4340
+      CER	0	1370	650	760		7420	-2210
+      CER	650	760	840	0		8910	-1450
+      CER	560	0	620	-330		10090	-1780
+      CER	620	-340	570	-660		11280	-2780
+      CER	560	-660	360	-1010		12200	-4450
+      CER	360	-1020	0	-1020		12560	-6490
+      CER	0	-1360	-670	-750		11890	-8600
+      CER	-680	-750	-970	0		10240	-9350
+      CER	-640	0	-560	330		9040	-9020
+      CER	-570	320	-530	720		7940	-7980
+      CER	-530	720	-320	1030		7090	-6230
+      CER	-320	1030	0	860		6770	-4340
+      SER	0	0				6770	-4340
+    </glyph>
+    <glyph codepoint='65(A)' advance='13660' bounds='0x0'>
+      SSCR6	-30	0				-30	0
+      SER	5630	-14660				5600	-14660
+      SER	2090	0				7690	-14660
+      SER	6000	14660				13690	0
+      SER	-2210	0				11480	0
+      SER	-1710	-4440				9770	-4440
+      SER	-6130	0				3640	-4440
+      SER	-1610	4440				2030	0
+      SER	-2060	0				-30	0
+      SSCR14	4200	-6020				4200	-6020
+      SER	4970	0				9170	-6020
+      SER	-1530	-4060				7640	-10080
+      CER	-700	-1850	-340	-1190		6600	-13120
+      CER	-280	1410	-510	1390		5810	-10320
+      SER	-1610	4300				4200	-6020
+    </glyph>
+    <glyph codepoint='66(B)' advance='13660' bounds='0x0'>
+      SSCR12	1500	0				1500	0
+      SER	0	-14660				1500	-14660
+      SER	5500	0				7000	-14660
+      CER	1680	0	1020	450		9700	-14210
+      CER	1010	440	580	930		11290	-12840
+      CER	570	920	0	1010		11860	-10910
+      CER	0	940	-510	830		11350	-9140
+      CER	-510	830	-1030	510		9810	-7800
+      CER	1330	390	720	940		11860	-6470
+      CER	710	940	0	1280		12570	-4250
+      CER	0	1030	-430	890		12140	-2330
+      CER	-440	880	-640	480		11060	-970
+      CER	-640	480	-960	250		9460	-240
+      CER	-970	240	-1400	0		7090	0
+      SER	-5590	0				1500	0
+      SSCR15	3440	-8500				3440	-8500
+      SER	3170	0				6610	-8500
+      CER	1290	0	560	-170		8460	-8670
+      CER	740	-220	380	-510		9580	-9400
+      CER	370	-510	0	-770		9950	-10680
+      CER	0	-730	-350	-550		9600	-11960
+      CER	-350	-560	-650	-200		8600	-12720
+      CER	-650	-210	-1580	0		6370	-12930
+      SER	-2930	0				3440	-12930
+      SER	0	4430				3440	-8500
+      SSCR13	3440	-1730				3440	-1730
+      SER	3650	0				7090	-1730
+      CER	940	0	380	-70		8410	-1800
+      CER	670	-120	450	-280		9530	-2200
+      CER	450	-280	290	-530		10270	-3010
+      CER	290	-540	0	-700		10560	-4250
+      CER	0	-820	-420	-600		10140	-5670
+      CER	-420	-610	-740	-240		8980	-6520
+      CER	-750	-250	-1400	0		6830	-6770
+      SER	-3390	0				3440	-6770
+      SER	0	5040				3440	-1730
+    </glyph>
+    <glyph codepoint='67(C)' advance='14800' bounds='0x0'>
+      SSCR15	12040	-5140				12040	-5140
+      SER	1940	490				13980	-4650
+      CER	-610	2390	-1580	1260		11790	-1000
+      CER	-1590	1250	-2290	0		7910	250
+      CER	-2370	0	-1480	-960		4060	-710
+      CER	-1490	-970	-770	-1830		1800	-3510
+      CER	-780	-1830	0	-2100		1020	-7440
+      CER	0	-2290	880	-1700		1900	-11430
+      CER	870	-1710	1620	-880		4390	-14020
+      CER	1610	-890	1940	0		7940	-14910
+      CER	2200	0	1500	1120		11640	-13790
+      CER	1500	1120	590	2030		13730	-10640
+      SER	-1910	450				11820	-10190
+      CER	-510	-1600	-970	-730		10340	-12520
+      CER	-970	-730	-1470	0		7900	-13250
+      CER	-1690	0	-1130	810		5080	-12440
+      CER	-1140	810	-460	1370		3480	-10260
+      CER	-460	1360	0	1450		3020	-7450
+      CER	0	1870	550	1400		3570	-4180
+      CER	540	1390	1150	690		5260	-2100
+      CER	1150	690	1340	0		7750	-1410
+      CER	1630	0	1130	-940		10510	-2350
+      CER	1130	-940	400	-1850		12040	-5140
+      SER	0	0				12040	-5140
+    </glyph>
+    <glyph codepoint='68(D)' advance='14800' bounds='0x0'>
+      SSCR12	1580	0				1580	0
+      SER	0	-14660				1580	-14660
+      SER	5050	0				6630	-14660
+      CER	1710	0	900	210		9240	-14450
+      CER	1260	290	890	760		11390	-13400
+      CER	1160	980	580	1530		13130	-10890
+      CER	570	1520	0	1960		13700	-7410
+      CER	0	1670	-390	1290		13310	-4450
+      CER	-390	1290	-610	850		12310	-2310
+      CER	-610	840	-720	490		10980	-980
+      CER	-730	480	-1020	250		9230	-250
+      CER	-1030	250	-1330	0		6870	0
+      SER	-5290	0				1580	0
+      SSCR13	3520	-1730				3520	-1730
+      SER	3130	0				6650	-1730
+      CER	1450	0	830	-270		8930	-2000
+      CER	820	-270	490	-490		10240	-2760
+      CER	690	-690	390	-1160		11320	-4610
+      CER	380	-1170	0	-1660		11700	-7440
+      CER	0	-2300	-750	-1230		10950	-10970
+      CER	-760	-1240	-1080	-420		9110	-12630
+      CER	-780	-300	-1730	0		6600	-12930
+      SER	-3080	0				3520	-12930
+      SER	0	11200				3520	-1730
+    </glyph>
+    <glyph codepoint='69(E)' advance='13660' bounds='0x0'>
+      SSCR12	1620	0				1620	0
+      SER	0	-14660				1620	-14660
+      SER	10600	0				12220	-14660
+      SER	0	1730				12220	-12930
+      SER	-8660	0				3560	-12930
+      SER	0	4490				3560	-8440
+      SER	8110	0				11670	-8440
+      SER	0	1720				11670	-6720
+      SER	-8110	0				3560	-6720
+      SER	0	4990				3560	-1730
+      SER	9000	0				12560	-1730
+      SER	0	1730				12560	0
+      SER	-10940	0				1620	0
+    </glyph>
+    <glyph codepoint='70(F)' advance='12520' bounds='0x0'>
+      SSCR12	1680	0				1680	0
+      SER	0	-14660				1680	-14660
+      SER	9890	0				11570	-14660
+      SER	0	1730				11570	-12930
+      SER	-7950	0				3620	-12930
+      SER	0	4540				3620	-8390
+      SER	6880	0				10500	-8390
+      SER	0	1730				10500	-6660
+      SER	-6880	0				3620	-6660
+      SER	0	6660				3620	0
+      SER	-1940	0				1680	0
+    </glyph>
+    <glyph codepoint='71(G)' advance='15940' bounds='0x0'>
+      SSCR15	8440	-5750				8440	-5750
+      SER	0	-1720				8440	-7470
+      SER	6210	-10				14650	-7480
+      SER	0	5440				14650	-2040
+      CER	-1430	1140	-1520	580		11700	-320
+      CER	-1520	570	-1600	0		8580	250
+      CER	-2160	0	-1760	-920		4660	-670
+      CER	-1770	-930	-900	-1750		1990	-3350
+      CER	-900	-1750	0	-2160		1090	-7260
+      CER	0	-2140	900	-1850		1990	-11250
+      CER	890	-1860	1680	-900		4560	-14010
+      CER	1680	-900	2190	0		8430	-14910
+      CER	1590	0	1290	520		11310	-14390
+      CER	1280	510	730	920		13320	-12960
+      CER	730	920	380	1480		14430	-10560
+      SER	-1750	480				12680	-10080
+      CER	-330	-1120	-490	-640		11860	-11840
+      CER	-490	-640	-910	-380		10460	-12860
+      CER	-910	-390	-1110	0		8440	-13250
+      CER	-1330	0	-970	410		6140	-12840
+      CER	-970	400	-590	660		4580	-11780
+      CER	-600	660	-330	790		3650	-10330
+      CER	-560	1360	0	1590		3090	-7380
+      CER	0	1960	680	1320		3770	-4100
+      CER	670	1320	1290	640		5730	-2140
+      CER	1290	640	1450	0		8470	-1500
+      CER	1260	0	1200	-480		10930	-1980
+      CER	1200	-490	620	-550		12750	-3020
+      SER	0	-2730				12750	-5750
+      SER	-4310	0				8440	-5750
+    </glyph>
+    <glyph codepoint='72(H)' advance='14800' bounds='0x0'>
+      SSCR12	1640	0				1640	0
+      SER	0	-14660				1640	-14660
+      SER	1940	0				3580	-14660
+      SER	0	6020				3580	-8640
+      SER	7620	0				11200	-8640
+      SER	0	-6020				11200	-14660
+      SER	1940	0				13140	-14660
+      SER	0	14660				13140	0
+      SER	-1940	0				11200	0
+      SER	0	-6910				11200	-6910
+      SER	-7620	0				3580	-6910
+      SER	0	6910				3580	0
+      SER	-1940	0				1640	0
+    </glyph>
+    <glyph codepoint='73(I)' advance='5700' bounds='0x0'>
+      SSCR12	1910	0				1910	0
+      SER	0	-14660				1910	-14660
+      SER	1940	0				3850	-14660
+      SER	0	14660				3850	0
+      SER	-1940	0				1910	0
+    </glyph>
+    <glyph codepoint='74(J)' advance='10240' bounds='0x0'>
+      SSCR14	590	-4160				590	-4160
+      SER	1750	-240				2340	-4400
+      CER	70	1680	560	620		2970	-2100
+      CER	560	620	990	0		4520	-1480
+      CER	730	0	530	-330		5780	-1810
+      CER	530	-340	200	-570		6510	-2720
+      CER	200	-580	0	-1260		6710	-4560
+      SER	0	-10100				6710	-14660
+      SER	1940	0				8650	-14660
+      SER	0	9990				8650	-4670
+      CER	0	1840	-440	1010		8210	-1820
+      CER	-450	1010	-960	530		6800	-280
+      CER	-970	530	-1300	0		4530	250
+      CER	-1930	0	-1020	-1110		1580	-860
+      CER	-1030	-1110	40	-2190		590	-4160
+      SER	0	0				590	-4160
+    </glyph>
+    <glyph codepoint='75(K)' advance='13660' bounds='0x0'>
+      SSCR12	1500	0				1500	0
+      SER	0	-14660				1500	-14660
+      SER	1940	0				3440	-14660
+      SER	0	7270				3440	-7390
+      SER	7280	-7270				10720	-14660
+      SER	2630	0				13350	-14660
+      SER	-6150	5940				7200	-8720
+      SER	6420	8720				13620	0
+      SER	-2560	0				11060	0
+      SER	-5220	-7420				5840	-7420
+      SER	-2400	2340				3440	-5080
+      SER	0	5080				3440	0
+      SER	-1940	0				1500	0
+    </glyph>
+    <glyph codepoint='76(L)' advance='11400' bounds='0x0'>
+      SSCR12	1500	0				1500	0
+      SER	0	-14660				1500	-14660
+      SER	1940	0				3440	-14660
+      SER	0	12930				3440	-1730
+      SER	7220	0				10660	-1730
+      SER	0	1730				10660	0
+      SER	-9160	0				1500	0
+    </glyph>
+    <glyph codepoint='77(M)' advance='17060' bounds='0x0'>
+      SSCR12	1520	0				1520	0
+      SER	0	-14660				1520	-14660
+      SER	2920	0				4440	-14660
+      SER	3470	10380				7910	-4280
+      CER	480	1450	220	720		8610	-2110
+      CER	250	-800	530	-1550		9390	-4460
+      SER	3510	-10200				12900	-14660
+      SER	2610	0				15510	-14660
+      SER	0	14660				15510	0
+      SER	-1870	0				13640	0
+      SER	0	-12270				13640	-12270
+      SER	-4260	12270				9380	0
+      SER	-1750	0				7630	0
+      SER	-4240	-12480				3390	-12480
+      SER	0	12480				3390	0
+      SER	-1870	0				1520	0
+    </glyph>
+    <glyph codepoint='78(N)' advance='14800' bounds='0x0'>
+      SSCR12	1560	0				1560	0
+      SER	0	-14660				1560	-14660
+      SER	1990	0				3550	-14660
+      SER	7700	11510				11250	-3150
+      SER	0	-11510				11250	-14660
+      SER	1860	0				13110	-14660
+      SER	0	14660				13110	0
+      SER	-1990	0				11120	0
+      SER	-7700	-11520				3420	-11520
+      SER	0	11520				3420	0
+      SER	-1860	0				1560	0
+    </glyph>
+    <glyph codepoint='79(O)' advance='15940' bounds='0x0'>
+      SSCR14	990	-7140				990	-7140
+      CER	0	-3650	1960	-2060		2950	-12850
+      CER	1960	-2070	3100	0		8010	-14920
+      CER	2030	0	1630	970		11670	-13950
+      CER	1630	970	860	1740		14160	-11240
+      CER	850	1730	0	2200		15010	-7310
+      CER	0	2230	-900	1760		14110	-3320
+      CER	-900	1760	-1650	910		11560	-650
+      CER	-1650	900	-1910	0		8000	250
+      CER	-2070	0	-1630	-1000		4300	-750
+      CER	-1630	-1000	-840	-1730		1830	-3480
+      CER	-840	-1730	0	-1930		990	-7140
+      SER	0	0				990	-7140
+      SSCR14	2990	-7110				2990	-7110
+      CER	0	2650	1430	1530		4420	-2930
+      CER	1420	1520	2150	0		7990	-1410
+      CER	2190	0	1420	-1540		11600	-2950
+      CER	1410	-1540	0	-2830		13010	-7320
+      CER	0	-1790	-600	-1330		12410	-10440
+      CER	-610	-1340	-1160	-730		10640	-12510
+      CER	-1170	-740	-1450	0		8020	-13250
+      CER	-2060	0	-1480	1420		4480	-11830
+      CER	-1490	1410	0	3310		2990	-7110
+      SER	0	0				2990	-7110
+    </glyph>
+    <glyph codepoint='80(P)' advance='13660' bounds='0x0'>
+      SSCR12	1580	0				1580	0
+      SER	0	-14660				1580	-14660
+      SER	5530	0				7110	-14660
+      CER	1460	0	770	140		9340	-14520
+      CER	1080	180	730	510		11150	-13830
+      CER	730	500	450	910		12330	-12420
+      CER	440	910	0	1090		12770	-10420
+      CER	0	1870	-1190	1300		11580	-7250
+      CER	-1190	1290	-3110	0		7280	-5960
+      SER	-3760	0				3520	-5960
+      SER	0	5960				3520	0
+      SER	-1940	0				1580	0
+      SSCR14	3520	-7690				3520	-7690
+      SER	3790	0				7310	-7690
+      CER	1880	0	790	-700		9980	-8390
+      CER	790	-700	0	-1270		10770	-10360
+      CER	0	-920	-460	-650		10310	-11930
+      CER	-470	-660	-760	-210		9080	-12800
+      CER	-490	-130	-1320	0		7270	-12930
+      SER	-3750	0				3520	-12930
+      SER	0	5240				3520	-7690
+    </glyph>
+    <glyph codepoint='81(Q)' advance='15940' bounds='0x0'>
+      SSCR15	12690	-1570				12690	-1570
+      CER	1350	930	1140	430		15180	-210
+      SER	-570	1350				14610	1140
+      CER	-1580	-570	-1570	-1230		11460	-660
+      CER	-1630	910	-1970	0		7860	250
+      CER	-1990	0	-1620	-960		4250	-710
+      CER	-1620	-960	-870	-1740		1760	-3410
+      CER	-880	-1740	0	-2180		880	-7330
+      CER	0	-2170	880	-1780		1760	-11280
+      CER	880	-1780	1630	-930		4270	-13990
+      CER	1620	-930	2010	0		7900	-14920
+      CER	2030	0	1630	970		11560	-13950
+      CER	1630	960	860	1740		14050	-11250
+      CER	850	1730	0	2180		14900	-7340
+      CER	0	1810	-550	1450		14350	-4080
+      CER	-550	1440	-1110	1070		12690	-1570
+      SER	0	0				12690	-1570
+      SSCR15	8420	-4050				8420	-4050
+      CER	1680	470	1090	930		11190	-2650
+      CER	1710	-1560	0	-3130		12900	-7340
+      CER	0	-1780	-600	-1330		12300	-10450
+      CER	-610	-1330	-1160	-730		10530	-12510
+      CER	-1170	-740	-1450	0		7910	-13250
+      CER	-2170	0	-1430	1490		4310	-11760
+      CER	-1430	1480	0	2950		2880	-7330
+      CER	0	2860	1420	1530		4300	-2940
+      CER	1410	1530	2200	0		7910	-1410
+      CER	1040	0	920	-390		9870	-1800
+      CER	-910	-590	-1010	-250		7950	-2640
+      SER	470	-1410				8420	-4050
+    </glyph>
+    <glyph codepoint='82(R)' advance='14800' bounds='0x0'>
+      SSCR12	1610	0				1610	0
+      SER	0	-14660				1610	-14660
+      SER	6500	0				8110	-14660
+      CER	1960	0	1020	400		11090	-14260
+      CER	1020	390	610	1000		12720	-12870
+      CER	610	1000	0	1210		13330	-10660
+      CER	0	1560	-1010	1070		12320	-8030
+      CER	-1010	1070	-2110	290		9200	-6670
+      CER	770	370	400	360		10370	-5940
+      CER	850	780	760	1170		11980	-3990
+      SER	2550	3990				14530	0
+      SER	-2440	0				12090	0
+      SER	-1940	-3050				10150	-3050
+      CER	-850	-1320	-550	-700		8750	-5070
+      CER	-550	-700	-430	-280		7770	-6050
+      CER	-440	-280	-450	-110		6880	-6440
+      CER	-330	-70	-750	0		5800	-6510
+      SER	-2250	0				3550	-6510
+      SER	0	6510				3550	0
+      SER	-1940	0				1610	0
+      SSCR14	3550	-8190				3550	-8190
+      SER	4170	0				7720	-8190
+      CER	1330	0	750	-270		9800	-8460
+      CER	750	-280	390	-600		10940	-9340
+      CER	390	-610	0	-710		11330	-10660
+      CER	0	-1040	-750	-670		10580	-12370
+      CER	-760	-670	-1630	0		8190	-13040
+      SER	-4640	0				3550	-13040
+      SER	0	4850				3550	-8190
+    </glyph>
+    <glyph codepoint='83(S)' advance='13660' bounds='0x0'>
+      SSCR14	920	-4710				920	-4710
+      SER	1830	-160				2750	-4870
+      CER	130	1100	480	710		3360	-3060
+      CER	470	700	1000	440		4830	-1920
+      CER	1000	430	1250	0		7080	-1490
+      CER	1110	0	850	-330		9040	-1820
+      CER	850	-330	420	-570		10310	-2720
+      CER	410	-580	0	-680		10720	-3980
+      CER	0	-690	-400	-510		10320	-5180
+      CER	-400	-520	-920	-350		9000	-6050
+      CER	-590	-230	-2020	-480		6390	-6760
+      CER	-2020	-490	-810	-430		3560	-7680
+      CER	-1050	-550	-510	-810		2000	-9040
+      CER	-520	-820	0	-1010		1480	-10870
+      CER	0	-1110	630	-960		2110	-12940
+      CER	630	-970	1210	-500		3950	-14410
+      CER	1210	-500	1480	0		6640	-14910
+      CER	1630	0	1250	530		9520	-14380
+      CER	1240	520	670	1020		11430	-12840
+      CER	670	1020	50	1290		12150	-10530
+      SER	-1860	140				10290	-10390
+      CER	-150	-1390	-860	-710		9280	-12490
+      CER	-870	-710	-1690	0		6720	-13200
+      CER	-1760	0	-800	650		4160	-12550
+      CER	-810	640	0	910		3350	-11000
+      CER	0	790	570	510		3920	-9700
+      CER	560	510	2370	540		6850	-8650
+      CER	2360	530	880	400		10090	-7720
+      CER	1280	590	610	910		11980	-6220
+      CER	610	900	0	1180		12590	-4140
+      CER	0	1170	-670	1040		11920	-1930
+      CER	-670	1030	-1250	580		10000	-320
+      CER	-1260	570	-1570	0		7170	250
+      CER	-1990	0	-1340	-580		3840	-330
+      CER	-1350	-580	-760	-1160		1730	-2070
+      CER	-770	-1170	-40	-1470		920	-4710
+      SER	0	0				920	-4710
+    </glyph>
+    <glyph codepoint='84(T)' advance='12520' bounds='0x0'>
+      SSCR14	5310	0				5310	0
+      SER	0	-12930				5310	-12930
+      SER	-4830	0				480	-12930
+      SER	0	-1730				480	-14660
+      SER	11620	0				12100	-14660
+      SER	0	1730				12100	-12930
+      SER	-4850	0				7250	-12930
+      SER	0	12930				7250	0
+      SER	-1940	0				5310	0
+    </glyph>
+    <glyph codepoint='85(U)' advance='14800' bounds='0x0'>
+      SSCR15	11200	-14660				11200	-14660
+      SER	1940	0				13140	-14660
+      SER	0	8470				13140	-6190
+      CER	0	2210	-500	1300		12640	-2680
+      CER	-500	1300	-1300	820		10840	-560
+      CER	-1310	810	-2120	0		7410	250
+      CER	-2060	0	-1310	-710		4040	-460
+      CER	-1310	-710	-560	-1340		2170	-2510
+      CER	-560	-1350	0	-2330		1610	-6190
+      SER	0	-8470				1610	-14660
+      SER	1940	0				3550	-14660
+      SER	0	8460				3550	-6200
+      CER	0	1910	360	910		3910	-3380
+      CER	350	900	870	490		5130	-1990
+      CER	860	490	1250	0		7240	-1500
+      CER	2140	0	910	-970		10290	-2470
+      CER	910	-970	0	-2760		11200	-6200
+      SER	0	-8460				11200	-14660
+    </glyph>
+    <glyph codepoint='86(V)' advance='13660' bounds='0x0'>
+      SSCR14	5770	0				5770	0
+      SER	-5680	-14660				90	-14660
+      SER	2100	0				2190	-14660
+      SER	3810	10650				6000	-4010
+      CER	460	1280	310	1120		6770	-1610
+      CER	340	-1200	450	-1200		7560	-4010
+      SER	3960	-10650				11520	-14660
+      SER	1980	0				13500	-14660
+      SER	-5740	14660				7760	0
+      SER	-1990	0				5770	0
+    </glyph>
+    <glyph codepoint='87(W)' advance='19340' bounds='0x0'>
+      SSCR14	4140	0				4140	0
+      SER	-3890	-14660				250	-14660
+      SER	1990	0				2240	-14660
+      SER	2230	9610				4470	-5050
+      CER	360	1510	260	1490		5090	-2050
+      CER	560	-2350	100	-360		5750	-4760
+      SER	2790	-9900				8540	-14660
+      SER	2340	0				10880	-14660
+      SER	2100	7420				12980	-7240
+      CER	790	2760	350	2430		14120	-2050
+      CER	280	-1390	450	-1800		14850	-5240
+      SER	2300	-9420				17150	-14660
+      SER	1950	0				19100	-14660
+      SER	-4020	14660				15080	0
+      SER	-1870	0				13210	0
+      SER	-3090	-11170				10120	-11170
+      CER	-390	-1400	-70	-320		9660	-12890
+      CER	-230	1010	-200	710		9230	-11170
+      SER	-3110	11170				6120	0
+      SER	-1980	0				4140	0
+    </glyph>
+    <glyph codepoint='88(X)' advance='13660' bounds='0x0'>
+      SSCR8	90	0				90	0
+      SER	5670	-7640				5760	-7640
+      SER	-5000	-7020				760	-14660
+      SER	2310	0				3070	-14660
+      SER	2660	3760				5730	-10900
+      CER	830	1170	350	630		6910	-9100
+      CER	490	-800	670	-870		8070	-10770
+      SER	2950	-3890				11020	-14660
+      SER	2110	0				13130	-14660
+      SER	-5150	6910				7980	-7750
+      SER	5550	7750				13530	0
+      SER	-2400	0				11130	0
+      SER	-3690	-5230				7440	-5230
+      CER	-310	-450	-330	-530		6800	-6210
+      CER	-490	800	-210	300		6100	-5110
+      SER	-3680	5110				2420	0
+      SER	-2330	0				90	0
+    </glyph>
+    <glyph codepoint='89(Y)' advance='13660' bounds='0x0'>
+      SSCR14	5710	0				5710	0
+      SER	0	-6210				5710	-6210
+      SER	-5650	-8450				60	-14660
+      SER	2360	0				2420	-14660
+      SER	2890	4420				5310	-10240
+      CER	800	1240	690	1240		6800	-7760
+      CER	660	-1150	940	-1440		8400	-10350
+      SER	2840	-4310				11240	-14660
+      SER	2260	0				13500	-14660
+      SER	-5850	8450				7650	-6210
+      SER	0	6210				7650	0
+      SER	-1940	0				5710	0
+    </glyph>
+    <glyph codepoint='90(Z)' advance='12520' bounds='0x0'>
+      SSCR10	410	0				410	0
+      SER	0	-1800				410	-1800
+      SER	7510	-9390				7920	-11190
+      CER	800	-1000	720	-740		9440	-12930
+      SER	-8180	0				1260	-12930
+      SER	0	-1730				1260	-14660
+      SER	10500	0				11760	-14660
+      SER	0	1730				11760	-12930
+      SER	-8230	10170				3530	-2760
+      SER	-890	1030				2640	-1730
+      SER	9360	0				12000	-1730
+      SER	0	1730				12000	0
+      SER	-11590	0				410	0
+    </glyph>
+    <glyph codepoint='91([)' advance='5700' bounds='0x0'>
+      SSCR13	1390	4070				1390	4070
+      SER	0	-18730				1390	-14660
+      SER	3970	0				5360	-14660
+      SER	0	1490				5360	-13170
+      SER	-2170	0				3190	-13170
+      SER	0	15750				3190	2580
+      SER	2170	0				5360	2580
+      SER	0	1490				5360	4070
+      SER	-3970	0				1390	4070
+    </glyph>
+    <glyph codepoint='92(\)' advance='5700' bounds='0x0'>
+      SSCR14	4250	250				4250	250
+      SER	-4250	-15160				0	-14910
+      SER	1450	0				1450	-14910
+      SER	4240	15160				5690	250
+      SER	-1440	0				4250	250
+    </glyph>
+    <glyph codepoint='93(])' advance='5700' bounds='0x0'>
+      SSCR14	4360	4070				4360	4070
+      SER	-3970	0				390	4070
+      SER	0	-1490				390	2580
+      SER	2170	0				2560	2580
+      SER	0	-15750				2560	-13170
+      SER	-2170	0				390	-13170
+      SER	0	-1490				390	-14660
+      SER	3970	0				4360	-14660
+      SER	0	18730				4360	4070
+    </glyph>
+    <glyph codepoint='94(^)' advance='9620' bounds='0x0'>
+      SSCR14	2390	-6900				2390	-6900
+      SER	-1850	0				540	-6900
+      SER	3530	-8010				4070	-14910
+      SER	1450	0				5520	-14910
+      SER	3550	8010				9070	-6900
+      SER	-1810	0				7260	-6900
+      SER	-2470	-5970				4790	-12870
+      SER	-2400	5970				2390	-6900
+    </glyph>
+    <glyph codepoint='95(_)' advance='11400' bounds='0x0'>
+      SSCR13	-310	4070				-310	4070
+      SER	0	-1300				-310	2770
+      SER	11930	0				11620	2770
+      SER	0	1300				11620	4070
+      SER	-11930	0				-310	4070
+    </glyph>
+    <glyph codepoint='96(`)' advance='6820' bounds='0x0'>
+      SSCR15	4650	-11940				4650	-11940
+      SER	-1450	0				3200	-11940
+      SER	-2310	-2800				890	-14740
+      SER	2410	0				3300	-14740
+      SER	1350	2800				4650	-11940
+    </glyph>
+    <glyph codepoint='97(a)' advance='11400' bounds='0x0'>
+      SSCR15	8280	-1310				8280	-1310
+      CER	-1000	850	-920	350		6360	-110
+      CER	-930	350	-1060	0		4370	240
+      CER	-1750	0	-940	-850		1680	-610
+      CER	-940	-860	0	-1330		740	-2800
+      CER	0	-780	360	-640		1100	-4220
+      CER	350	-650	580	-390		2030	-5260
+      CER	570	-390	720	-200		3320	-5850
+      CER	530	-140	1070	-130		4920	-6120
+      CER	2180	-260	1030	-360		8130	-6740
+      CER	10	-370	0	-100		8140	-7210
+      CER	0	-1100	-510	-450		7630	-8760
+      CER	-690	-610	-1360	0		5580	-9370
+      CER	-1270	0	-600	450		3710	-8920
+      CER	-610	440	-290	1130		2810	-7350
+      SER	-1760	-240				1050	-7590
+      CER	240	-1130	550	-690		1840	-9410
+      CER	550	-700	1040	-370		3430	-10480
+      CER	1040	-380	1370	0		5840	-10860
+      CER	1360	0	850	320		8050	-10540
+      CER	850	320	400	490		9300	-9730
+      CER	400	480	160	740		9860	-8510
+      CER	90	460	0	1200		9950	-6850
+      SER	0	2400				9950	-4450
+      CER	0	2510	120	670		10070	-1270
+      CER	110	660	340	610		10520	0
+      SER	-1880	0				8640	0
+      CER	-280	-560	-80	-750		8280	-1310
+      SER	0	0				8280	-1310
+      SSCR14	8130	-5330				8130	-5330
+      CER	-980	400	-1960	280		5190	-4650
+      CER	-1110	160	-460	200		3620	-4290
+      CER	-460	200	-250	390		2910	-3700
+      CER	-250	380	0	470		2660	-2850
+      CER	0	720	550	480		3210	-1650
+      CER	540	480	1050	0		4800	-1170
+      CER	1040	0	810	-450		6650	-1620
+      CER	810	-460	380	-790		7840	-2870
+      CER	290	-610	0	-1190		8130	-4670
+      SER	0	-660				8130	-5330
+    </glyph>
+    <glyph codepoint='98(b)' advance='11400' bounds='0x0'>
+      SSCR13	3010	0				3010	0
+      SER	-1670	0				1340	0
+      SER	0	-14660				1340	-14660
+      SER	1800	0				3140	-14660
+      SER	0	5230				3140	-9430
+      CER	1140	-1430	1770	0		6050	-10860
+      CER	980	0	880	400		7910	-10460
+      CER	870	390	570	720		9350	-9350
+      CER	560	710	320	1010		10230	-7630
+      CER	320	1010	0	1150		10550	-5470
+      CER	0	2730	-1350	1490		9200	-1250
+      CER	-1350	1490	-1890	0		5960	240
+      CER	-1880	0	-1070	-1570		3010	-1330
+      SER	0	1330				3010	0
+      SSCR14	2990	-5390				2990	-5390
+      CER	0	1910	520	850		3510	-2630
+      CER	850	1390	1450	0		5810	-1240
+      CER	1180	0	860	-1020		7850	-2260
+      CER	860	-1030	0	-2030		8710	-5320
+      CER	0	-2080	-820	-990		7890	-8390
+      CER	-830	-990	-1170	0		5890	-9380
+      CER	-1180	0	-860	1030		3850	-8350
+      CER	-860	1020	0	1940		2990	-5390
+      SER	0	0				2990	-5390
+    </glyph>
+    <glyph codepoint='99(c)' advance='10240' bounds='0x0'>
+      SSCR15	8280	-3890				8280	-3890
+      SER	1770	230				10050	-3660
+      CER	-290	1830	-1190	1040		8570	-790
+      CER	-1200	1030	-1740	0		5630	240
+      CER	-2180	0	-1320	-1420		2130	-1180
+      CER	-1330	-1430	0	-2660		800	-5270
+      CER	0	-1720	570	-1290		1370	-8280
+      CER	570	-1290	1170	-640		3110	-10210
+      CER	1160	-650	1370	0		5640	-10860
+      CER	1730	0	1100	880		8470	-9980
+      CER	1100	870	310	1610		9880	-7500
+      SER	-1750	270				8130	-7230
+      CER	-250	-1070	-630	-540		7250	-8840
+      CER	-640	-540	-900	0		5710	-9380
+      CER	-1360	0	-850	980		3500	-8400
+      CER	-850	970	0	2110		2650	-5320
+      CER	0	2140	820	970		3470	-2210
+      CER	820	970	1320	0		5610	-1240
+      CER	1060	0	710	-650		7380	-1890
+      CER	710	-650	190	-1350		8280	-3890
+      SER	0	0				8280	-3890
+    </glyph>
+    <glyph codepoint='100(d)' advance='11400' bounds='0x0'>
+      SSCR15	8240	0				8240	0
+      SER	0	-1340				8240	-1340
+      CER	-1010	1580	-1960	0		5270	240
+      CER	-1270	0	-1060	-700		2940	-460
+      CER	-1070	-700	-580	-1250		1290	-2410
+      CER	-590	-1260	0	-1630		700	-5300
+      CER	0	-1590	530	-1290		1230	-8180
+      CER	530	-1300	1060	-690		2820	-10170
+      CER	1060	-690	1310	0		5190	-10860
+      CER	960	0	750	410		6900	-10450
+      CER	750	400	470	650		8120	-9400
+      SER	0	-5260				8120	-14660
+      SER	1790	0				9910	-14660
+      SER	0	14660				9910	0
+      SER	-1670	0				8240	0
+      SSCR14	2550	-5300				2550	-5300
+      CER	0	2040	860	1010		3410	-2250
+      CER	860	1010	1170	0		5440	-1240
+      CER	1180	0	830	-960		7450	-2200
+      CER	820	-970	0	-1980		8270	-5150
+      CER	0	-2180	-840	-1020		7430	-8350
+      CER	-840	-1020	-1230	0		5360	-9370
+      CER	-1200	0	-800	980		3360	-8390
+      CER	-810	980	0	2110		2550	-5300
+      SER	0	0				2550	-5300
+    </glyph>
+    <glyph codepoint='101(e)' advance='11400' bounds='0x0'>
+      SSCR15	8620	-3420				8620	-3420
+      SER	1860	230				10480	-3190
+      CER	-440	1630	-1190	900		8850	-660
+      CER	-1190	900	-1850	0		5810	240
+      CER	-2330	0	-1360	-1430		2120	-1190
+      CER	-1370	-1440	0	-2590		750	-5220
+      CER	0	-2680	1380	-1480		2130	-9380
+      CER	1380	-1480	2200	0		5710	-10860
+      CER	2130	0	1350	1450		9190	-9410
+      CER	1350	1450	0	2630		10540	-5330
+      CER	0	160	-10	320		10530	-4850
+      SER	-7920	0				2610	-4850
+      CER	100	1750	890	930		3600	-2170
+      CER	890	930	1330	0		5820	-1240
+      CER	990	0	700	-520		7510	-1760
+      CER	700	-520	410	-1140		8620	-3420
+      SER	0	0				8620	-3420
+      SSCR14	2710	-6330				2710	-6330
+      SER	5930	0				8640	-6330
+      CER	-120	-1340	-560	-670		7960	-8340
+      CER	-860	-1040	-1370	0		5730	-9380
+      CER	-1240	0	-840	830		3650	-8550
+      CER	-850	830	-90	1390		2710	-6330
+      SER	0	0				2710	-6330
+    </glyph>
+    <glyph codepoint='102(f)' advance='5700' bounds='0x0'>
+      SSCR12	1780	0				1780	0
+      SER	0	-9220				1780	-9220
+      SER	-1590	0				190	-9220
+      SER	0	-1400				190	-10620
+      SER	1590	0				1780	-10620
+      SER	0	-1130				1780	-11750
+      CER	0	-1070	190	-520		1970	-13340
+      CER	260	-700	660	-430		2890	-14470
+      CER	650	-440	1180	0		4720	-14910
+      CER	760	0	920	180		6400	-14730
+      SER	-270	1570				6130	-13160
+      CER	-560	-100	-500	0		5070	-13260
+      CER	-820	0	-340	350		3910	-12910
+      CER	-340	350	0	960		3570	-11600
+      SER	0	980				3570	-10620
+      SER	2070	0				5640	-10620
+      SER	0	1400				5640	-9220
+      SER	-2070	0				3570	-9220
+      SER	0	9220				3570	0
+      SER	-1790	0				1780	0
+    </glyph>
+    <glyph codepoint='103(g)' advance='11400' bounds='0x0'>
+      SSCR11	1020	880				1020	880
+      SER	1750	260				2770	1140
+      CER	110	810	500	370		3380	2320
+      CER	670	500	1160	0		5210	2820
+      CER	1250	0	680	-500		7140	2320
+      CER	680	-500	240	-900		8060	920
+      CER	140	-550	-10	-1760		8190	-1390
+      CER	-1180	1390	-1760	0		5250	0
+      CER	-2190	0	-1200	-1580		1860	-1580
+      CER	-1200	-1580	0	-2210		660	-5370
+      CER	0	-1520	550	-1280		1210	-8170
+      CER	550	-1290	1050	-700		2810	-10160
+      CER	1040	-700	1410	0		5260	-10860
+      CER	1880	0	1220	1520		8360	-9340
+      SER	0	-1280				8360	-10620
+      SER	1660	0				10020	-10620
+      SER	0	9180				10020	-1440
+      CER	0	2480	-500	1040		9520	2080
+      CER	-510	1030	-1090	600		7920	3710
+      CER	-1100	600	-1600	0		5220	4310
+      CER	-1900	0	-1170	-850		2150	3460
+      CER	-1170	-860	40	-1720		1020	880
+      SER	0	0				1020	880
+      SSCR14	2510	-5500				2510	-5500
+      CER	0	2090	830	960		3340	-2450
+      CER	830	960	1250	0		5420	-1490
+      CER	1240	0	840	-950		7500	-2440
+      CER	840	-960	0	-2040		8340	-5440
+      CER	0	-1950	-860	-990		7480	-8380
+      CER	-870	-990	-1220	0		5390	-9370
+      CER	-1200	0	-840	980		3350	-8390
+      CER	-840	970	0	1920		2510	-5500
+      SER	0	0				2510	-5500
+    </glyph>
+    <glyph codepoint='104(h)' advance='11400' bounds='0x0'>
+      SSCR12	1350	0				1350	0
+      SER	0	-14660				1350	-14660
+      SER	1800	0				3150	-14660
+      SER	0	5260				3150	-9400
+      CER	1260	-1460	1920	0		6330	-10860
+      CER	1180	0	870	470		8380	-10390
+      CER	870	460	380	820		9630	-9110
+      CER	370	820	0	1560		10000	-6730
+      SER	0	6730				10000	0
+      SER	-1800	0				8200	0
+      SER	0	-6730				8200	-6730
+      CER	0	-1350	-580	-610		7620	-8690
+      CER	-590	-620	-1070	0		5960	-9310
+      CER	-800	0	-700	420		4460	-8890
+      CER	-710	410	-300	710		3450	-7770
+      CER	-300	710	0	1250		3150	-5810
+      SER	0	5810				3150	0
+      SER	-1800	0				1350	0
+    </glyph>
+    <glyph codepoint='105(i)' advance='4560' bounds='0x0'>
+      SSCR15	1360	-12590				1360	-12590
+      SER	0	-2070				1360	-14660
+      SER	1800	0				3160	-14660
+      SER	0	2070				3160	-12590
+      SER	-1800	0				1360	-12590
+      SSCR12	1360	0				1360	0
+      SER	0	-10620				1360	-10620
+      SER	1800	0				3160	-10620
+      SER	0	10620				3160	0
+      SER	-1800	0				1360	0
+    </glyph>
+    <glyph codepoint='106(j)' advance='4560' bounds='0x0'>
+      SSCR15	1340	-12570				1340	-12570
+      SER	0	-2090				1340	-14660
+      SER	1800	0				3140	-14660
+      SER	0	2090				3140	-12570
+      SER	-1800	0				1340	-12570
+      SSCR14	-940	4120				-940	4120
+      SER	340	-1530				-600	2590
+      CER	540	140	310	0		250	2730
+      CER	550	0	270	-360		1070	2370
+      CER	270	-370	0	-1460		1340	540
+      SER	0	-11160				1340	-10620
+      SER	1800	0				3140	-10620
+      SER	0	11200				3140	580
+      CER	0	1960	-510	770		2630	3310
+      CER	-650	1000	-1510	0		470	4310
+      CER	-730	0	-680	-190		-940	4120
+      SER	0	0				-940	4120
+    </glyph>
+    <glyph codepoint='107(k)' advance='10240' bounds='0x0'>
+      SSCR12	1360	0				1360	0
+      SER	0	-14660				1360	-14660
+      SER	1800	0				3160	-14660
+      SER	0	8360				3160	-6300
+      SER	4260	-4320				7420	-10620
+      SER	2330	0				9750	-10620
+      SER	-4060	3940				5690	-6680
+      SER	4470	6680				10160	0
+      SER	-2220	0				7940	0
+      SER	-3510	-5430				4430	-5430
+      SER	-1270	1220				3160	-4210
+      SER	0	4210				3160	0
+      SER	-1800	0				1360	0
+    </glyph>
+    <glyph codepoint='108(l)' advance='4560' bounds='0x0'>
+      SSCR12	1310	0				1310	0
+      SER	0	-14660				1310	-14660
+      SER	1800	0				3110	-14660
+      SER	0	14660				3110	0
+      SER	-1800	0				1310	0
+    </glyph>
+    <glyph codepoint='109(m)' advance='17060' bounds='0x0'>
+      SSCR12	1350	0				1350	0
+      SER	0	-10620				1350	-10620
+      SER	1610	0				2960	-10620
+      SER	0	1490				2960	-9130
+      CER	500	-780	830	-470		4290	-10380
+      CER	830	-480	1060	0		6180	-10860
+      CER	1180	0	760	490		8120	-10370
+      CER	750	490	310	880		9180	-9000
+      CER	1260	-1860	2020	0		12460	-10860
+      CER	1580	0	850	880		14890	-9980
+      CER	850	870	0	1820		15740	-7290
+      SER	0	7290				15740	0
+      SER	-1790	0				13950	0
+      SER	0	-6690				13950	-6690
+      CER	0	-1080	-170	-470		13780	-8240
+      CER	-180	-480	-460	-290		13140	-9010
+      CER	-460	-290	-620	0		12060	-9300
+      CER	-1120	0	-740	750		10200	-8550
+      CER	-740	740	0	1640		9460	-6170
+      SER	0	6170				9460	0
+      SER	-1800	0				7660	0
+      SER	0	-6900				7660	-6900
+      CER	0	-1200	-440	-600		7220	-8700
+      CER	-440	-600	-1000	0		5780	-9300
+      CER	-760	0	-640	400		4380	-8900
+      CER	-650	400	-290	770		3440	-7730
+      CER	-290	770	0	1450		3150	-5510
+      SER	0	5510				3150	0
+      SER	-1800	0				1350	0
+    </glyph>
+    <glyph codepoint='110(n)' advance='11400' bounds='0x0'>
+      SSCR12	1350	0				1350	0
+      SER	0	-10620				1350	-10620
+      SER	1620	0				2970	-10620
+      SER	0	1510				2970	-9110
+      CER	1170	-1750	2210	0		6350	-10860
+      CER	960	0	810	350		8120	-10510
+      CER	800	340	400	560		9320	-9610
+      CER	400	560	160	770		9880	-8280
+      CER	100	500	0	1250		9980	-6530
+      SER	0	6530				9980	0
+      SER	-1800	0				8180	0
+      SER	0	-6460				8180	-6460
+      CER	0	-1100	-210	-540		7970	-8100
+      CER	-210	-550	-530	-320		7230	-8970
+      CER	-540	-330	-720	0		5970	-9300
+      CER	-1150	0	-830	730		3990	-8570
+      CER	-840	730	0	2040		3150	-5800
+      SER	0	5800				3150	0
+      SER	-1800	0				1350	0
+    </glyph>
+    <glyph codepoint='111(o)' advance='11400' bounds='0x0'>
+      SSCR14	680	-5310				680	-5310
+      CER	0	-2950	1640	-1420		2320	-9680
+      CER	1370	-1180	1970	0		5660	-10860
+      CER	2190	0	1390	1440		9240	-9420
+      CER	1390	1430	0	2530		10630	-5460
+      CER	0	2050	-610	1180		10020	-2230
+      CER	-620	1170	-1170	650		8230	-410
+      CER	-1180	650	-1390	0		5660	240
+      CER	-2230	0	-1370	-1430		2060	-1190
+      CER	-1380	-1430	0	-2690		680	-5310
+      SER	0	0				680	-5310
+      SSCR14	2530	-5310				2530	-5310
+      CER	0	2040	890	1020		3420	-2250
+      CER	890	1010	1350	0		5660	-1240
+      CER	1340	0	890	-1020		7890	-2260
+      CER	890	-1020	0	-2090		8780	-5370
+      CER	0	-1970	-890	-1010		7890	-8350
+      CER	-900	-1020	-1330	0		5660	-9370
+      CER	-1350	0	-890	1010		3420	-8360
+      CER	-890	1010	0	2040		2530	-5310
+      SER	0	0				2530	-5310
+    </glyph>
+    <glyph codepoint='112(p)' advance='11400' bounds='0x0'>
+      SSCR13	1350	4070				1350	4070
+      SER	0	-14690				1350	-10620
+      SER	1640	0				2990	-10620
+      SER	0	1380				2990	-9240
+      CER	580	-810	730	-400		4300	-10450
+      CER	730	-410	1040	0		6070	-10860
+      CER	1360	0	1040	700		8470	-10160
+      CER	1040	700	530	1280		10040	-8180
+      CER	530	1270	0	1520		10570	-5390
+      CER	0	1630	-580	1310		9990	-2450
+      CER	-590	1300	-1110	700		8290	-450
+      CER	-1120	690	-1230	0		5940	240
+      CER	-900	0	-710	-380		4330	-140
+      CER	-720	-380	-460	-580		3150	-1100
+      SER	0	5170				3150	4070
+      SER	-1800	0				1350	4070
+      SSCR14	2980	-5250				2980	-5250
+      CER	0	2050	830	980		3810	-2220
+      CER	830	980	1180	0		5820	-1240
+      CER	1200	0	860	-1010		7880	-2250
+      CER	850	-1020	0	-2130		8730	-5400
+      CER	0	-2030	-830	-1010		7900	-8440
+      CER	-840	-1010	-1160	0		5900	-9450
+      CER	-1150	0	-880	1080		3870	-8370
+      CER	-890	1070	0	2050		2980	-5250
+      SER	0	0				2980	-5250
+    </glyph>
+    <glyph codepoint='113(q)' advance='11400' bounds='0x0'>
+      SSCR14	8120	4070				8120	4070
+      SER	0	-5200				8120	-1130
+      CER	-420	590	-750	390		6950	-150
+      CER	-760	390	-850	0		5340	240
+      CER	-1890	0	-1360	-1510		2090	-1270
+      CER	-1370	-1510	0	-2630		720	-5410
+      CER	0	-1600	560	-1270		1280	-8280
+      CER	550	-1270	1060	-650		2890	-10200
+      CER	1050	-660	1260	0		5200	-10860
+      CER	1970	0	1130	1660		8300	-9200
+      SER	0	-1420				8300	-10620
+      SER	1620	0				9920	-10620
+      SER	0	14690				9920	4070
+      SER	-1800	0				8120	4070
+      SSCR14	2570	-5340				2570	-5340
+      CER	0	2050	860	1030		3430	-2260
+      CER	860	1020	1200	0		5490	-1240
+      CER	1150	0	830	-970		7470	-2210
+      CER	830	-980	0	-1990		8300	-5180
+      CER	0	-2120	-870	-1070		7430	-8370
+      CER	-880	-1070	-1180	0		5370	-9440
+      CER	-1170	0	-810	1000		3390	-8440
+      CER	-820	990	0	2110		2570	-5340
+      SER	0	0				2570	-5340
+    </glyph>
+    <glyph codepoint='114(r)' advance='6820' bounds='0x0'>
+      SSCR12	1330	0				1330	0
+      SER	0	-10620				1330	-10620
+      SER	1620	0				2950	-10620
+      SER	0	1610				2950	-9010
+      CER	620	-1130	530	-360		4100	-10500
+      CER	520	-360	630	0		5250	-10860
+      CER	910	0	940	580		7100	-10280
+      SER	-620	1670				6480	-8610
+      CER	-660	-390	-660	0		5160	-9000
+      CER	-590	0	-470	360		4100	-8640
+      CER	-470	350	-200	630		3430	-7660
+      CER	-300	960	0	1140		3130	-5560
+      SER	0	5560				3130	0
+      SER	-1800	0				1330	0
+    </glyph>
+    <glyph codepoint='115(s)' advance='10240' bounds='0x0'>
+      SSCR13	630	-3170				630	-3170
+      SER	1780	-280				2410	-3450
+      CER	150	1070	690	570		3250	-1810
+      CER	680	570	1230	0		5160	-1240
+      CER	1240	0	600	-500		7000	-1740
+      CER	600	-510	0	-680		7600	-2930
+      CER	0	-610	-530	-350		7070	-3890
+      CER	-370	-240	-1470	-370		5230	-4500
+      CER	-1980	-500	-760	-360		2490	-5360
+      CER	-770	-370	-390	-640		1330	-6370
+      CER	-400	-650	0	-780		930	-7800
+      CER	0	-710	330	-600		1260	-9110
+      CER	320	-610	560	-400		2140	-10120
+      CER	420	-310	730	-210		3290	-10640
+      CER	720	-220	830	0		4840	-10860
+      CER	1250	0	950	360		7040	-10500
+      CER	940	360	450	620		8430	-9520
+      CER	450	610	170	1030		9050	-7880
+      SER	-1760	240				7290	-7640
+      CER	-120	-820	-570	-460		6600	-8920
+      CER	-580	-460	-1050	0		4970	-9380
+      CER	-1240	0	-530	410		3200	-8970
+      CER	-530	410	0	550		2670	-8010
+      CER	0	350	220	280		2890	-7380
+      CER	220	290	470	190		3580	-6900
+      CER	270	100	1320	360		5170	-6440
+      CER	1910	510	760	330		7840	-5600
+      CER	750	320	430	620		9020	-4660
+      CER	430	620	0	920		9450	-3120
+      CER	0	900	-520	800		8930	-1420
+      CER	-530	790	-990	440		7410	-190
+      CER	-990	430	-1250	0		5170	240
+      CER	-2070	0	-1080	-860		2020	-620
+      CER	-1090	-860	-300	-1690		630	-3170
+      SER	0	0				630	-3170
+    </glyph>
+    <glyph codepoint='116(t)' advance='5700' bounds='0x0'>
+      SSCR14	5280	-1610				5280	-1610
+      SER	260	1590				5540	-20
+      CER	-760	160	-600	0		4180	140
+      CER	-980	0	-540	-310		2660	-170
+      CER	-540	-310	-220	-500		1900	-980
+      CER	-220	-510	0	-1620		1680	-3110
+      SER	0	-6110				1680	-9220
+      SER	-1320	0				360	-9220
+      SER	0	-1400				360	-10620
+      SER	1320	0				1680	-10620
+      SER	0	-2630				1680	-13250
+      SER	1790	-1080				3470	-14330
+      SER	0	3710				3470	-10620
+      SER	1810	0				5280	-10620
+      SER	0	1400				5280	-9220
+      SER	-1810	0				3470	-9220
+      SER	0	6210				3470	-3010
+      CER	0	770	100	220		3570	-2020
+      CER	90	220	220	130		3880	-1670
+      CER	210	130	400	0		4490	-1540
+      CER	300	0	490	-70		5280	-1610
+      SER	0	0				5280	-1610
+    </glyph>
+    <glyph codepoint='117(u)' advance='11400' bounds='0x0'>
+      SSCR15	8310	0				8310	0
+      SER	0	-1560				8310	-1560
+      CER	-1240	1800	-2130	0		4940	240
+      CER	-940	0	-810	-360		3190	-120
+      CER	-820	-360	-390	-540		1980	-1020
+      CER	-400	-550	-160	-790		1420	-2360
+      CER	-110	-530	0	-1150		1310	-4040
+      SER	0	-6580				1310	-10620
+      SER	1800	0				3110	-10620
+      SER	0	5890				3110	-4730
+      CER	0	1410	110	490		3220	-2830
+      CER	170	710	550	410		3940	-1710
+      CER	550	400	810	0		5300	-1310
+      CER	810	0	710	-410		6820	-1720
+      CER	710	-420	300	-710		7830	-2850
+      CER	290	-720	0	-1360		8120	-4930
+      SER	0	-5690				8120	-10620
+      SER	1800	0				9920	-10620
+      SER	0	10620				9920	0
+      SER	-1610	0				8310	0
+    </glyph>
+    <glyph codepoint='118(v)' advance='10240' bounds='0x0'>
+      SSCR14	4300	0				4300	0
+      SER	-4040	-10620				260	-10620
+      SER	1900	0				2160	-10620
+      SER	2280	6360				4440	-4260
+      CER	370	1030	310	1110		5120	-2120
+      CER	240	-840	430	-1180		5790	-4140
+      SER	2360	-6480				8150	-10620
+      SER	1850	0				10000	-10620
+      SER	-4020	10620				5980	0
+      SER	-1680	0				4300	0
+    </glyph>
+    <glyph codepoint='119(w)' advance='14800' bounds='0x0'>
+      SSCR13	3310	0				3310	0
+      SER	-3250	-10620				60	-10620
+      SER	1860	0				1920	-10620
+      SER	1690	6130				3610	-4490
+      SER	630	2280				4240	-2210
+      CER	40	-170	510	-2020		4790	-4400
+      SER	1690	-6220				6480	-10620
+      SER	1850	0				8330	-10620
+      SER	1590	6160				9920	-4460
+      SER	530	2030				10450	-2430
+      SER	610	-2050				11060	-4480
+      SER	1820	-6140				12880	-10620
+      SER	1750	0				14630	-10620
+      SER	-3320	10620				11310	0
+      SER	-1870	0				9440	0
+      SER	-1690	-6360				7750	-6360
+      SER	-410	-1810				7340	-8170
+      SER	-2150	8170				5190	0
+      SER	-1880	0				3310	0
+    </glyph>
+    <glyph codepoint='120(x)' advance='10240' bounds='0x0'>
+      SSCR9	150	0				150	0
+      SER	3880	-5520				4030	-5520
+      SER	-3590	-5100				440	-10620
+      SER	2250	0				2690	-10620
+      SER	1630	2490				4320	-8130
+      CER	460	710	280	480		5060	-6940
+      CER	440	-660	370	-510		5870	-8110
+      SER	1790	-2510				7660	-10620
+      SER	2150	0				9810	-10620
+      SER	-3670	5000				6140	-5620
+      SER	3950	5620				10090	0
+      SER	-2210	0				7880	0
+      SER	-2180	-3300				5700	-3300
+      SER	-580	-890				5120	-4190
+      SER	-2790	4190				2330	0
+      SER	-2180	0				150	0
+    </glyph>
+    <glyph codepoint='121(y)' advance='10240' bounds='0x0'>
+      SSCR13	1270	4090				1270	4090
+      SER	-200	-1690				1070	2400
+      CER	590	160	440	0		2100	2560
+      CER	600	0	360	-200		3060	2360
+      CER	360	-200	230	-360		3650	1800
+      CER	170	-270	380	-1070		4200	460
+      CER	50	-150	110	-290		4360	20
+      SER	-4030	-10640				330	-10620
+      SER	1940	0				2270	-10620
+      SER	2210	6150				4480	-4470
+      CER	430	1170	340	1290		5250	-2010
+      CER	310	-1240	430	-1180		5990	-4430
+      SER	2270	-6190				8260	-10620
+      SER	1800	0				10060	-10620
+      SER	-4040	10800				6020	180
+      CER	-650	1750	-360	660		5010	2590
+      CER	-480	890	-620	420		3910	3900
+      CER	-620	410	-860	0		2430	4310
+      CER	-520	0	-640	-220		1270	4090
+      SER	0	0				1270	4090
+    </glyph>
+    <glyph codepoint='122(z)' advance='10240' bounds='0x0'>
+      SSCR10	400	0				400	0
+      SER	0	-1460				400	-1460
+      SER	6760	-7760				7160	-9220
+      CER	-1150	60	-880	0		5130	-9160
+      SER	-4330	0				800	-9160
+      SER	0	-1460				800	-10620
+      SER	8680	0				9480	-10620
+      SER	0	1190				9480	-9430
+      SER	-5750	6740				3730	-2690
+      SER	-1110	1230				2620	-1460
+      CER	1210	-90	1060	0		4890	-1550
+      SER	4910	0				9800	-1550
+      SER	0	1550				9800	0
+      SER	-9400	0				400	0
+    </glyph>
+    <glyph codepoint='123({)' advance='6840' bounds='0x0'>
+      SSCR14	570	-6120				570	-6120
+      CER	770	-20	490	-390		1830	-6530
+      CER	480	-400	160	-690		2470	-7620
+      CER	160	-690	10	-1670		2640	-9980
+      CER	10	-1670	50	-530		2700	-12180
+      CER	90	-840	250	-510		3040	-13530
+      CER	240	-510	360	-300		3640	-14340
+      CER	360	-310	560	-160		4560	-14810
+      CER	380	-100	860	0		5800	-14910
+      SER	560	0				6360	-14910
+      SER	0	1570				6360	-13340
+      SER	-310	0				6050	-13340
+      CER	-1040	0	-340	380		4670	-12960
+      CER	-340	370	0	1300		4330	-11290
+      CER	0	2620	-110	690		4220	-7980
+      CER	-180	1070	-430	580		3610	-6330
+      CER	-440	580	-930	450		2240	-5300
+      CER	1100	460	500	950		3840	-3890
+      CER	490	940	0	2150		4330	-800
+      CER	0	1950	40	370		4370	1520
+      CER	80	680	330	270		4780	2470
+      CER	320	270	950	0		6050	2740
+      SER	310	0				6360	2740
+      SER	0	1570				6360	4310
+      SER	-560	0				5800	4310
+      CER	-980	0	-440	-160		4380	4150
+      CER	-640	-230	-420	-510		3320	3410
+      CER	-420	-520	-120	-790		2780	2100
+      CER	-130	-790	-10	-1800		2640	-490
+      CER	-10	-1800	-160	-690		2470	-2980
+      CER	-160	-690	-480	-400		1830	-4070
+      CER	-490	-400	-770	-20		570	-4490
+      SER	0	-1630				570	-6120
+    </glyph>
+    <glyph codepoint='124(|)' advance='5320' bounds='0x0'>
+      SSCR14	1880	4310				1880	4310
+      SER	0	-19220				1880	-14910
+      SER	1570	0				3450	-14910
+      SER	0	19220				3450	4310
+      SER	-1570	0				1880	4310
+    </glyph>
+    <glyph codepoint='125(})' advance='6840' bounds='0x0'>
+      SSCR14	6260	-6120				6260	-6120
+      SER	0	1630				6260	-4490
+      CER	-770	20	-480	400		5010	-4070
+      CER	-490	400	-160	690		4360	-2980
+      CER	-160	680	-10	1670		4190	-630
+      CER	-10	1670	-50	530		4130	1570
+      CER	-90	850	-240	510		3800	2930
+      CER	-250	500	-360	310		3190	3740
+      CER	-360	300	-560	160		2270	4200
+      CER	-380	110	-860	0		1030	4310
+      SER	-560	0				470	4310
+      SER	0	-1570				470	2740
+      SER	310	0				780	2740
+      CER	1040	0	340	-370		2160	2370
+      CER	340	-380	0	-1310		2500	680
+      CER	0	-2500	90	-670		2590	-2490
+      CER	160	-1110	480	-660		3230	-4260
+      CER	480	-670	880	-370		4590	-5300
+      CER	-1150	-550	-470	-900		2970	-6750
+      CER	-470	-910	0	-2150		2500	-9810
+      CER	0	-1950	-50	-380		2450	-12140
+      CER	-70	-670	-320	-260		2060	-13070
+      CER	-330	-270	-950	0		780	-13340
+      SER	-310	0				470	-13340
+      SER	0	-1570				470	-14910
+      SER	560	0				1030	-14910
+      CER	980	0	440	160		2450	-14750
+      CER	640	220	420	520		3510	-14010
+      CER	420	520	130	790		4060	-12700
+      CER	120	790	10	1800		4190	-10110
+      CER	10	1800	160	690		4360	-7620
+      CER	160	680	490	400		5010	-6540
+      CER	480	400	770	20		6260	-6120
+      SER	0	0				6260	-6120
+    </glyph>
+    <glyph codepoint='126(~)' advance='11960' bounds='0x0'>
+      SSCR14	870	-5570				870	-5570
+      SER	0	-2050				870	-7620
+      CER	1060	-1200	1720	0		3650	-8820
+      CER	600	0	660	180		4910	-8640
+      CER	660	170	1220	520		6790	-7950
+      CER	690	290	350	90		7830	-7570
+      CER	340	90	350	0		8520	-7480
+      CER	650	0	700	-390		9870	-7870
+      CER	690	-390	540	-590		11100	-8850
+      SER	0	2120				11100	-6730
+      CER	-640	600	-650	270		9810	-5860
+      CER	-660	270	-820	0		8330	-5590
+      CER	-600	0	-540	-140		7190	-5730
+      CER	-550	-140	-1180	-530		5460	-6400
+      CER	-1190	-530	-790	0		3480	-6930
+      CER	-640	0	-560	280		2280	-6650
+      CER	-570	270	-840	810		870	-5570
+      SER	0	0				870	-5570
+    </glyph>
+    <glyph codepoint='710(ˆ)' advance='6820' bounds='0x0'>
+      SSCR15	3440	-13640				3440	-13640
+      SER	-1130	1700				2310	-11940
+      SER	-2060	0				250	-11940
+      SER	2160	-2800				2410	-14740
+      SER	1920	0				4330	-14740
+      SER	2250	2800				6580	-11940
+      SER	-2040	0				4540	-11940
+      SER	-1100	-1700				3440	-13640
+    </glyph>
+    <glyph codepoint='732(˜)' advance='6820' bounds='0x0'>
+      SSCR15	70	-12190				70	-12190
+      CER	-10	-1040	580	-620		640	-13850
+      CER	570	-620	890	0		2100	-14470
+      CER	620	0	1070	540		3790	-13930
+      CER	590	300	350	0		4730	-13630
+      CER	320	0	170	-170		5220	-13800
+      CER	170	-180	70	-520		5460	-14500
+      SER	1300	0				6760	-14500
+      CER	-30	1140	-540	570		6190	-12790
+      CER	-550	570	-840	0		4800	-12220
+      CER	-630	0	-1030	-560		3140	-12780
+      CER	-670	-360	-310	0		2160	-13140
+      CER	-340	0	-210	240		1610	-12900
+      CER	-220	240	10	470		1400	-12190
+      SER	-1330	0				70	-12190
+    </glyph>
+    <glyph codepoint='8211(–)' advance='11400' bounds='0x0'>
+      SSCR14	-40	-4580				-40	-4580
+      SER	0	-1450				-40	-6030
+      SER	11390	0				11350	-6030
+      SER	0	1450				11350	-4580
+      SER	-11390	0				-40	-4580
+    </glyph>
+    <glyph codepoint='8212(—)' advance='20480' bounds='0x0'>
+      SSCR14	0	-4580				0	-4580
+      SER	0	-1450				0	-6030
+      SER	20480	0				20480	-6030
+      SER	0	1450				20480	-4580
+      SER	-20480	0				0	-4580
+    </glyph>
+    <glyph codepoint='8216(‘)' advance='4560' bounds='0x0'>
+      SSCR15	3210	-12200				3210	-12200
+      SER	0	2090				3210	-10110
+      SER	-1930	0				1280	-10110
+      SER	0	-1650				1280	-11760
+      CER	0	-1340	320	-600		1600	-13700
+      CER	420	-800	910	-410		2930	-14910
+      SER	440	700				3370	-14210
+      CER	-550	230	-260	460		2560	-13520
+      CER	-260	450	-30	870		2270	-12200
+      SER	940	0				3210	-12200
+    </glyph>
+    <glyph codepoint='8217(’)' advance='4560' bounds='0x0'>
+      SSCR15	1240	-12720				1240	-12720
+      SER	0	-2090				1240	-14810
+      SER	1930	0				3170	-14810
+      SER	0	1650				3170	-13160
+      CER	0	1340	-310	590		2860	-11230
+      CER	-430	810	-910	410		1520	-10010
+      SER	-440	-710				1080	-10720
+      CER	540	-220	270	-470		1890	-11410
+      CER	260	-480	30	-830		2180	-12720
+      SER	-940	0				1240	-12720
+    </glyph>
+    <glyph codepoint='8218(‚)' advance='4560' bounds='0x0'>
+      SSCR12	1240	0				1240	0
+      SER	0	-2090				1240	-2090
+      SER	1930	0				3170	-2090
+      SER	0	1650				3170	-440
+      CER	0	1340	-310	590		2860	1490
+      CER	-430	810	-910	410		1520	2710
+      SER	-440	-710				1080	2000
+      CER	540	-220	270	-470		1890	1310
+      CER	260	-480	30	-830		2180	0
+      SER	-940	0				1240	0
+    </glyph>
+    <glyph codepoint='8220(“)' advance='6820' bounds='0x0'>
+      SSCR15	2760	-12200				2760	-12200
+      SER	0	2090				2760	-10110
+      SER	-1930	0				830	-10110
+      SER	0	-1650				830	-11760
+      CER	0	-1340	320	-600		1150	-13700
+      CER	420	-800	910	-410		2480	-14910
+      SER	440	700				2920	-14210
+      CER	-550	230	-260	460		2110	-13520
+      CER	-260	450	-30	870		1820	-12200
+      SER	940	0				2760	-12200
+      SSCR15	5860	-12200				5860	-12200
+      SER	0	2090				5860	-10110
+      SER	-1930	0				3930	-10110
+      SER	0	-1650				3930	-11760
+      CER	0	-1340	320	-600		4250	-13700
+      CER	420	-800	910	-410		5580	-14910
+      SER	440	700				6020	-14210
+      CER	-550	230	-260	460		5210	-13520
+      CER	-260	450	-30	870		4920	-12200
+      SER	940	0				5860	-12200
+    </glyph>
+    <glyph codepoint='8221(”)' advance='6820' bounds='0x0'>
+      SSCR15	870	-12720				870	-12720
+      SER	0	-2090				870	-14810
+      SER	1930	0				2800	-14810
+      SER	0	1650				2800	-13160
+      CER	0	1340	-310	590		2490	-11230
+      CER	-430	810	-910	410		1150	-10010
+      SER	-440	-710				710	-10720
+      CER	540	-220	270	-470		1520	-11410
+      CER	260	-480	30	-830		1810	-12720
+      SER	-940	0				870	-12720
+      SSCR15	3970	-12720				3970	-12720
+      SER	0	-2090				3970	-14810
+      SER	1930	0				5900	-14810
+      SER	0	1650				5900	-13160
+      CER	0	1340	-310	590		5590	-11230
+      CER	-430	810	-910	410		4250	-10010
+      SER	-440	-710				3810	-10720
+      CER	540	-220	270	-470		4620	-11410
+      CER	260	-480	30	-830		4910	-12720
+      SER	-940	0				3970	-12720
+    </glyph>
+    <glyph codepoint='8222(„)' advance='6820' bounds='0x0'>
+      SSCR11	870	0				870	0
+      SER	0	-2090				870	-2090
+      SER	1930	0				2800	-2090
+      SER	0	1650				2800	-440
+      CER	0	1340	-310	590		2490	1490
+      CER	-430	810	-910	410		1150	2710
+      SER	-440	-710				710	2000
+      CER	540	-220	270	-470		1520	1310
+      CER	260	-480	30	-830		1810	0
+      SER	-940	0				870	0
+      SSCR13	3970	0				3970	0
+      SER	0	-2090				3970	-2090
+      SER	1930	0				5900	-2090
+      SER	0	1650				5900	-440
+      CER	0	1340	-310	590		5590	1490
+      CER	-430	810	-910	410		4250	2710
+      SER	-440	-710				3810	2000
+      CER	540	-220	270	-470		4620	1310
+      CER	260	-480	30	-830		4910	0
+      SER	-940	0				3970	0
+    </glyph>
+    <glyph codepoint='8224(†)' advance='11400' bounds='0x0'>
+      SSCR14	4720	3460				4720	3460
+      SER	0	-12120				4720	-8660
+      SER	-3990	0				730	-8660
+      SER	0	-1600				730	-10260
+      SER	3990	0				4720	-10260
+      SER	0	-4060				4720	-14320
+      SER	1800	0				6520	-14320
+      SER	0	4060				6520	-10260
+      SER	4020	0				10540	-10260
+      SER	0	1600				10540	-8660
+      SER	-4020	0				6520	-8660
+      SER	0	12120				6520	3460
+      SER	-1800	0				4720	3460
+    </glyph>
+    <glyph codepoint='8225(‡)' advance='11400' bounds='0x0'>
+      SSCR14	4750	3460				4750	3460
+      SER	0	-3700				4750	-240
+      SER	-4020	0				730	-240
+      SER	0	-1610				730	-1850
+      SER	4020	0				4750	-1850
+      SER	0	-7250				4750	-9100
+      SER	-4020	0				730	-9100
+      SER	0	-1610				730	-10710
+      SER	4020	0				4750	-10710
+      SER	0	-3750				4750	-14460
+      SER	1800	0				6550	-14460
+      SER	0	3750				6550	-10710
+      SER	4030	0				10580	-10710
+      SER	0	1610				10580	-9100
+      SER	-4030	0				6550	-9100
+      SER	0	7250				6550	-1850
+      SER	4030	0				10580	-1850
+      SER	0	1610				10580	-240
+      SER	-4030	0				6550	-240
+      SER	0	3700				6550	3460
+      SER	-1800	0				4750	3460
+    </glyph>
+    <glyph codepoint='8226(•)' advance='7180' bounds='0x0'>
+      SSCR14	1090	-7180				1090	-7180
+      CER	0	-1050	750	-740		1840	-8970
+      CER	740	-740	1040	0		3620	-9710
+      CER	1050	0	750	740		5420	-8970
+      CER	740	740	0	1050		6160	-7180
+      CER	0	1050	-740	750		5420	-5380
+      CER	-750	740	-1050	0		3620	-4640
+      CER	-1040	0	-740	-740		1840	-5380
+      CER	-750	-750	0	-1050		1090	-7180
+      SER	0	0				1090	-7180
+    </glyph>
+    <glyph codepoint='8230(…)' advance='20480' bounds='0x0'>
+      SSCR13	2390	0				2390	0
+      SER	0	-2050				2390	-2050
+      SER	2050	0				4440	-2050
+      SER	0	2050				4440	0
+      SER	-2050	0				2390	0
+      SSCR15	9220	0				9220	0
+      SER	0	-2050				9220	-2050
+      SER	2050	0				11270	-2050
+      SER	0	2050				11270	0
+      SER	-2050	0				9220	0
+      SSCR15	16040	0				16040	0
+      SER	0	-2050				16040	-2050
+      SER	2060	0				18100	-2050
+      SER	0	2050				18100	0
+      SER	-2060	0				16040	0
+    </glyph>
+    <glyph codepoint='8240(‰)' advance='20480' bounds='0x0'>
+      SSCR13	3200	540				3200	540
+      SER	6010	-15450				9210	-14910
+      SER	1310	0				10520	-14910
+      SER	-6000	15450				4520	540
+      SER	-1320	0				3200	540
+      SSCR15	370	-10990				370	-10990
+      CER	0	-1990	790	-900		1160	-13880
+      CER	780	-910	1290	0		3230	-14790
+      CER	1280	0	800	910		5310	-13880
+      CER	800	910	0	1940		6110	-11030
+      CER	0	1960	-700	1000		5410	-8070
+      CER	-700	990	-1460	0		3250	-7080
+      CER	-1280	0	-800	-930		1170	-8010
+      CER	-800	-930	0	-2050		370	-10990
+      SER	0	0				370	-10990
+      SSCR15	1850	-10910				1850	-10910
+      CER	0	1520	400	530		2250	-8860
+      CER	390	530	650	0		3290	-8330
+      CER	590	0	320	-450		4200	-8780
+      CER	430	-600	0	-1550		4630	-10930
+      CER	0	-1520	-440	-630		4190	-13080
+      CER	-340	-470	-600	0		3250	-13550
+      CER	-620	0	-330	460		2300	-13090
+      CER	-450	630	0	1550		1850	-10910
+      SER	0	0				1850	-10910
+      SSCR14	7630	-3360				7630	-3360
+      CER	0	-1990	790	-900		8420	-6250
+      CER	780	-910	1280	0		10480	-7160
+      CER	1280	0	810	910		12570	-6250
+      CER	800	910	0	1940		13370	-3400
+      CER	0	1960	-700	990		12670	-450
+      CER	-700	990	-1460	0		10510	540
+      CER	-1280	0	-800	-920		8430	-380
+      CER	-800	-930	0	-2050		7630	-3360
+      SER	0	0				7630	-3360
+      SSCR15	9110	-3280				9110	-3280
+      CER	0	1510	400	540		9510	-1230
+      CER	390	530	650	0		10550	-700
+      CER	590	0	320	-450		11460	-1150
+      CER	430	-610	0	-1540		11890	-3300
+      CER	0	-1530	-450	-620		11440	-5450
+      CER	-340	-470	-590	0		10510	-5920
+      CER	-620	0	-330	460		9560	-5460
+      CER	-450	620	0	1560		9110	-3280
+      SER	0	0				9110	-3280
+      SSCR15	14370	-3360				14370	-3360
+      CER	0	-1990	790	-900		15160	-6250
+      CER	780	-910	1290	0		17230	-7160
+      CER	1280	0	800	910		19310	-6250
+      CER	800	910	0	1940		20110	-3400
+      CER	0	1960	-690	990		19420	-450
+      CER	-700	990	-1470	0		17250	540
+      CER	-1280	0	-800	-920		15170	-380
+      CER	-800	-930	0	-2050		14370	-3360
+      SER	0	0				14370	-3360
+      SSCR15	15850	-3280				15850	-3280
+      CER	0	1510	400	540		16250	-1230
+      CER	390	530	650	0		17290	-700
+      CER	590	0	320	-450		18200	-1150
+      CER	430	-610	0	-1540		18630	-3300
+      CER	0	-1530	-440	-620		18190	-5450
+      CER	-340	-470	-600	0		17250	-5920
+      CER	-620	0	-330	460		16300	-5460
+      CER	-450	620	0	1560		15850	-3280
+      SER	0	0				15850	-3280
+    </glyph>
+    <glyph codepoint='8249(‹)' advance='6820' bounds='0x0'>
+      SSCR14	2910	-5270				2910	-5270
+      SER	2650	4550				5560	-720
+      SER	-1490	0				4070	-720
+      SER	-3150	-4550				920	-5270
+      SER	3150	-4570				4070	-9840
+      SER	1490	0				5560	-9840
+      SER	-2650	4570				2910	-5270
+    </glyph>
+    <glyph codepoint='8250(›)' advance='6820' bounds='0x0'>
+      SSCR14	3570	-5300				3570	-5300
+      SER	-2650	-4540				920	-9840
+      SER	1490	0				2410	-9840
+      SER	3040	4480				5450	-5360
+      SER	-3040	4640				2410	-720
+      SER	-1490	0				920	-720
+      SER	2650	-4580				3570	-5300
+    </glyph>
+    <glyph codepoint='8364(€)' advance='11400' bounds='0x0'>
+      SSCR15	7900	-13250				7900	-13250
+      CER	-1680	0	-1140	810		5080	-12440
+      CER	-680	480	-550	880		3850	-11080
+      CER	-560	910	-100	820		3190	-9350
+      SER	6820	0				10010	-9350
+      SER	-270	1340				9740	-8010
+      SER	-6710	0				3030	-8010
+      CER	-10	210	0	190		3020	-7610
+      CER	0	770	10	150		3030	-6690
+      SER	6440	0				9470	-6690
+      SER	-280	1340				9190	-5350
+      SER	-5950	0				3240	-5350
+      CER	420	2290	1600	960		5260	-2100
+      CER	1150	690	1340	0		7750	-1410
+      CER	1870	0	1050	-980		10670	-2390
+      SER	0	2060				10670	-330
+      CER	-1250	580	-1510	0		7910	250
+      CER	-4520	0	-1590	-3760		1800	-3510
+      CER	-320	-760	-230	-1080		1250	-5350
+      SER	-1530	0				-280	-5350
+      SER	280	-1340				0	-6690
+      SER	1050	0				1050	-6690
+      CER	-30	-420	0	-490		1020	-7600
+      CER	0	-200	10	-210		1030	-8010
+      SER	-1310	0				-280	-8010
+      SER	280	-1340				0	-9350
+      SER	1160	0				1160	-9350
+      CER	620	-3260	2610	-1420		4390	-14030
+      CER	1610	-880	1940	0		7940	-14910
+      CER	1860	0	1270	810		11070	-14100
+      SER	-400	1860				10670	-12240
+      CER	-1220	-1010	-1550	0		7900	-13250
+      SER	0	0				7900	-13250
+    </glyph>
+    <glyph codepoint='8482(™)' advance='20480' bounds='0x0'>
+      SSCR14	4890	-6510				4890	-6510
+      SER	0	-6940				4890	-13450
+      SER	-2640	0				2250	-13450
+      SER	0	-1210				2250	-14660
+      SER	6660	0				8910	-14660
+      SER	0	1210				8910	-13450
+      SER	-2660	0				6250	-13450
+      SER	0	6940				6250	-6510
+      SER	-1360	0				4890	-6510
+      SSCR15	9820	-6510				9820	-6510
+      SER	0	-8150				9820	-14660
+      SER	2000	0				11820	-14660
+      SER	2060	6510				13880	-8150
+      SER	1990	-6510				15870	-14660
+      SER	1960	0				17830	-14660
+      SER	0	8150				17830	-6510
+      SER	-1240	0				16590	-6510
+      SER	0	-6840				16590	-13350
+      SER	-2100	6840				14490	-6510
+      SER	-1230	0				13260	-6510
+      SER	-2190	-6940				11070	-13450
+      SER	0	6940				11070	-6510
+      SER	-1250	0				9820	-6510
+    </glyph>
+  </DefineFont3>
+  <!-- offset=896602 size=1149 -->
+  <DefineFontAlignZones fontID='4104' CSMTableHint='1'>
+    <ZoneTable length='114'>
+      <ZoneRecord num='2' mask='0'>0 0 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14014 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13028 1121794717 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1108475904 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>15359 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>15946 1121860546 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13846 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>15165 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14981 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>15359 1059520512 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14035 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1047330816 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14053 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>12981 1121861370 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>15946 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>16023 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>16221 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14056 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14047 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1107492864 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>15253 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13209 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13924 1121861447 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13117 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13942 1121861615 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13946 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13984 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13181 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13954 1121861568 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14090 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>16030 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13910 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13919 1121862238 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13932 1121861578 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13127 1121862230 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13943 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>12988 1121862229 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13965 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>15886 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13946 1121861566 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>15935 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13851 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14858 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1122631680 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 975372288 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1122041856 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>16170 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13831 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>12954 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>16174 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>12904 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14022 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>16193 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13865 1108623017 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13842 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13848 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13862 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13309 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13836 1108622967 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13864 1108623013 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>12856 1108623141 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13833 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>16167 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13836 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13309 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13976 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13844 1108623013 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13309 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13309 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13309 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13309 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13309 1108606976 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14857 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14084 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>14315 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1064108032 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+      <ZoneRecord num='2' mask='3'>13915 1121845248 </ZoneRecord>
+    </ZoneTable>
+  </DefineFontAlignZones>
+  <!-- offset=897751 size=144 -->
+  <DefineFontName fontID='4104' name='Arial' copyright='Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc/Type Solutions Inc. 1990-1992. All Rights Reserved'/>
+  <!-- offset=897895 size=35 -->
+  <DefineEditText id='4105' fontId='4104' fontName='Arial' fontHeight='240' bounds='(-40,-40),(2040,352)' color='#0000005A' html='false' autoSize='false' border='false' multiline='false' noSelect='true' password='false' readOnly='true' useOutlines='true' varName='' wordWrap='false' align='2' indent='0' leading='40' leftMargin='0' rightMargin='0'/>
+  <!-- offset=897930 size=57 -->
+  <DefineSprite id='4094'>
+    <!-- sprite framecount=2 -->
+    <PlaceObject2 idref='4103' depth='101' matrix='t2000,2000'/>
+    <PlaceObject2 idref='4105' name='percent_txt' depth='110' matrix='t1000,2144'/>
+    <ShowFrame/>
+  </DefineSprite>
